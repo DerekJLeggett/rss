@@ -2,6 +2,8 @@ package com.leggett.rss;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.util.StringUtils;
+
 import java.net.URL;
 import java.io.File;
 import java.util.List;
@@ -23,10 +25,10 @@ public class RssApplication {
                 SyndFeed feed = new SyndFeedImpl();
                 feed.setFeedType("rss_2.0");
 
-                feed.setTitle("Aggregated Feed");
-                feed.setDescription("Anonymous Aggregated Feed");
-                feed.setAuthor("anonymous");
-                feed.setLink("http://www.anonymous.com");
+                feed.setTitle("Aggregated " + StringUtils.capitalize(args[0]) + "Feed");
+                feed.setDescription(feed.getTitle());
+                feed.setAuthor("Derek Leggett");
+                feed.setLink("https://www.thedorey.com/assets/rss/" + args[0] + ".xml");
 
                 List entries = new ArrayList();
                 feed.setEntries(entries);
