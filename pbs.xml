@@ -1,234 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Aggregated Feed</title>
-    <link>http://www.anonymous.com</link>
-    <description>Anonymous Aggregated Feed</description>
-    <dc:creator>anonymous</dc:creator>
+    <title>Aggregated PbsFeed</title>
+    <link>https://www.thedorey.com/assets/rss/pbs.xml</link>
+    <description>Aggregated PbsFeed</description>
+    <dc:creator>Derek Leggett</dc:creator>
     <item>
-      <title>In Fight Against ISIS, a Lose-Lose Scenario Poses Challenge for West</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/wUaK-vQapNg/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/obama-at-war/in-fight-against-isis-a-lose-lose-scenario-poses-challenge-for-west/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/obama-at-war/in-fight-against-isis-a-lose-lose-scenario-poses-challenge-for-west/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/12909864341447882926.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;Western powers are in a bind, analysts say, as ISIS is likely to continue pursuing attacks abroad in retaliation to the loss of territory in Iraq and Syria.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/wUaK-vQapNg" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Wed, 18 Nov 2015 22:27:21 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/obama-at-war/in-fight-against-isis-a-lose-lose-scenario-poses-challenge-for-west/</guid>
-      <dc:date>2015-11-18T22:27:21Z</dc:date>
-    </item>
-    <item>
-      <title>ISIS is in Afghanistan, But Who Are They Really?</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/5p6IO-9AKD8/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/isis-is-in-afghanistan-but-who-are-they-really/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/isis-is-in-afghanistan-but-who-are-they-really/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/15595470711447801172.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;It appears ISIS-allied fighters are gaining a foothold in Afghanistan, but just how similar are they to the group's branches in Iraq and Syria?&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/5p6IO-9AKD8" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Tue, 17 Nov 2015 23:13:51 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/isis-is-in-afghanistan-but-who-are-they-really/</guid>
-      <dc:date>2015-11-17T23:13:51Z</dc:date>
-    </item>
-    <item>
-      <title>“The Most Risky … Job Ever.” Reporting on “ISIS in Afghanistan”</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/4uKIcXj_eQo/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/the-most-risky-job-ever-reporting-on-isis-in-afghanistan/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/the-most-risky-job-ever-reporting-on-isis-in-afghanistan/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/4035616191447786379.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;Najibullah Quraishi has covered the war in Afghanistan for more than a decade, but embedding with ISIS fighters who've recently emerged there "was the most risky and dangerous job ever I've done in my life," he says.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/4uKIcXj_eQo" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Tue, 17 Nov 2015 18:59:43 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/the-most-risky-job-ever-reporting-on-isis-in-afghanistan/</guid>
-      <dc:date>2015-11-17T18:59:43Z</dc:date>
-    </item>
-    <item>
-      <title>After Paris Attacks, CIA Head Reignites Surveillance Debate</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/LGmL49X4iws/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/government-elections-politics/united-states-of-secrets/after-paris-attacks-cia-head-reignites-surveillance-debate/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/government-elections-politics/united-states-of-secrets/after-paris-attacks-cia-head-reignites-surveillance-debate/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/12191918131447714165.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;Just days after the attack in Paris, America’s top intelligence official suggested that recent leaks about classified surveillance programs were partially responsible.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/LGmL49X4iws" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Mon, 16 Nov 2015 23:21:12 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/government-elections-politics/united-states-of-secrets/after-paris-attacks-cia-head-reignites-surveillance-debate/</guid>
-      <dc:date>2015-11-16T23:21:12Z</dc:date>
-    </item>
-    <item>
-      <title>WATCH: A Conversation With Teens in Training as ISIS Suicide Bombers</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/xHr3sY2K_ag/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/watch-a-conversation-with-teens-in-training-as-isis-suicide-bombers/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/watch-a-conversation-with-teens-in-training-as-isis-suicide-bombers/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/16219788961447457729.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;As ISIS expands its reach into Afghanistan, it is training children and teenagers to become the next generation of jihadis.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/xHr3sY2K_ag" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Mon, 16 Nov 2015 19:34:40 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/watch-a-conversation-with-teens-in-training-as-isis-suicide-bombers/</guid>
-      <dc:date>2015-11-16T19:34:40Z</dc:date>
-    </item>
-    <item>
-      <title>What Happens When Police Are Forced to Reform?</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/Lget26o2x4o/what-happens-when-police-are-forced-to-reform</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://stories.frontline.org/what-happens-when-police-are-forced-to-reform</feedburner:origLink>
-      <description>&lt;a href="http://stories.frontline.org/what-happens-when-police-are-forced-to-reform"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/20935364671447440765.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;The Justice Department has intervened in troubled police departments for 20 years. Are reform efforts working?&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/Lget26o2x4o" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Fri, 13 Nov 2015 20:45:10 GMT</pubDate>
-      <guid isPermaLink="false">http://stories.frontline.org/what-happens-when-police-are-forced-to-reform</guid>
-      <dc:date>2015-11-13T20:45:10Z</dc:date>
-    </item>
-    <item>
-      <title>Is It Too Late for Obama On Immigration Reform?</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/NVUBfXTvONU/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/is-it-too-late-for-obama-on-immigration-reform/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/is-it-too-late-for-obama-on-immigration-reform/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/11379071721447275996.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;Unless the Supreme Court acts fast, the window might be closed for President Obama on immigration reform.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/NVUBfXTvONU" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Wed, 11 Nov 2015 21:42:04 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/is-it-too-late-for-obama-on-immigration-reform/</guid>
-      <dc:date>2015-11-11T21:42:04Z</dc:date>
-    </item>
-    <item>
-      <title>Attorney General Orders FanDuel, DraftKings, Out of New York</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/RJTFe6wbZEc/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/sports/attorney-general-orders-fanduel-draftkings-out-of-new-york/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/sports/attorney-general-orders-fanduel-draftkings-out-of-new-york/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/116052841447171685.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;Attorney General Eric Schneiderman has issued a cease-and-desist order to the nation’s two largest daily fantasy sports companies, saying that the betting that takes place on their sites breaks New York's online gambling laws.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/RJTFe6wbZEc" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Tue, 10 Nov 2015 23:49:56 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/sports/attorney-general-orders-fanduel-draftkings-out-of-new-york/</guid>
-      <dc:date>2015-11-10T23:49:56Z</dc:date>
-    </item>
-    <item>
-      <title>A Campaign of Disappearances in Syria Leaves Thousands Missing</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/ZZ2Gftr9h2Y/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/syria-at-war/a-campaign-of-disappearances-in-syria-leaves-thousands-missing/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/syria-at-war/a-campaign-of-disappearances-in-syria-leaves-thousands-missing/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/9054509571446751349.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;At least 65,116 individuals have been "forcibly disappeared" by the Syrian government, according to a new report by Amnesty International.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/ZZ2Gftr9h2Y" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Thu, 05 Nov 2015 23:54:46 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/syria-at-war/a-campaign-of-disappearances-in-syria-leaves-thousands-missing/</guid>
-      <dc:date>2015-11-05T23:54:46Z</dc:date>
-    </item>
-    <item>
-      <title>America, Iraq and the Legacy of Ahmad Chalabi</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/cxGGa5Vq8-k/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/iraq-war-on-terror/america-iraq-and-the-legacy-of-ahmad-chalabi/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/iraq-war-on-terror/america-iraq-and-the-legacy-of-ahmad-chalabi/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/13746303111446735316.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;Ahmad Chalabi helped lead the U.S. into war in Iraq, but if he ever had regrets about his role in the invasion, and the years of violence it unleashed, "he never voiced them to me," writes FRONTLINE correspondent Martin Smith.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/cxGGa5Vq8-k" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Thu, 05 Nov 2015 19:08:49 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/iraq-war-on-terror/america-iraq-and-the-legacy-of-ahmad-chalabi/</guid>
-      <dc:date>2015-11-05T19:08:49Z</dc:date>
-    </item>
-    <item>
-      <title>Terror in Little Saigon</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/MlQg_nCkI3o/terror-in-little-saigon-</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://stories.frontline.org/terror-in-little-saigon-</feedburner:origLink>
-      <description>&lt;a href="http://stories.frontline.org/terror-in-little-saigon-"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/8819517271446555487.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;From 1981 to 1990, five Vietnamese-American journalists were killed in what some suspected was a string of political assassinations. Why did the murders go unsolved?&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/MlQg_nCkI3o" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Wed, 04 Nov 2015 02:30:45 GMT</pubDate>
-      <guid isPermaLink="false">http://stories.frontline.org/terror-in-little-saigon-</guid>
-      <dc:date>2015-11-04T02:30:45Z</dc:date>
-    </item>
-    <item>
-      <title>Inside the Making of “Terror in Little Saigon”</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/xKYimmsoM4k/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/inside-frontline/inside-the-making-of-terror-in-little-saigon-an-interview-with-a-c-thompson-and-richard-rowley/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/inside-frontline/inside-the-making-of-terror-in-little-saigon-an-interview-with-a-c-thompson-and-richard-rowley/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/9418830251446508945.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;A.C. Thompson and Richard Rowley’s search for answers into the killings of five Vietnamese-American journalists took them from cities like Houston and San Francisco, to the jungles of Southeast Asia, to the corridors of power in Washington.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/xKYimmsoM4k" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Wed, 04 Nov 2015 02:24:30 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/inside-frontline/inside-the-making-of-terror-in-little-saigon-an-interview-with-a-c-thompson-and-richard-rowley/</guid>
-      <dc:date>2015-11-04T02:24:30Z</dc:date>
-    </item>
-    <item>
-      <title>ISIS in Afghanistan: School of Jihad</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/UaOCOyrK6mU/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/isis-in-afghanistan-school-of-jihad/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/isis-in-afghanistan-school-of-jihad/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/16225110901446241239.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;The emergence of ISIS in Afghanistan has introduced a new level of brutality to the conflict, beyond what has been practiced by the Taliban.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/UaOCOyrK6mU" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Sun, 01 Nov 2015 13:51:48 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/isis-in-afghanistan/isis-in-afghanistan-school-of-jihad/</guid>
-      <dc:date>2015-11-01T13:51:48Z</dc:date>
-    </item>
-    <item>
-      <title>Coming in November on FRONTLINE</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/qWZAVhgHa4w/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/inside-frontline/coming-in-november-on-frontline/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/inside-frontline/coming-in-november-on-frontline/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/17791488321446229806.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;This November, explore an unsolved string of murders from the past, and the dangerous new rise of ISIS in Afghanistan.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/qWZAVhgHa4w" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Fri, 30 Oct 2015 20:01:47 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/inside-frontline/coming-in-november-on-frontline/</guid>
-      <dc:date>2015-10-30T20:01:47Z</dc:date>
-    </item>
-    <item>
-      <title>Inheritance</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/SAwXV0iHPSQ/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/my-brothers-bomber/inheritance/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/my-brothers-bomber/inheritance/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/20157612011445799743.png" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;The Lockerbie bombing left only fragments of David Dornstein's life behind, but their discovery gave his brother a new purpose -- to gather what went missing, preserve what was left, and work to make sense of it all. That story is told in this special interactive presentation.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/SAwXV0iHPSQ" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Thu, 29 Oct 2015 15:10:12 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/my-brothers-bomber/inheritance/</guid>
-      <dc:date>2015-10-29T15:10:12Z</dc:date>
-    </item>
-    <item>
-      <title>17 Indicted in Bust of $32 Million Online Gambling Ring</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/FjAEDDSCRZg/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/sports/17-indicted-in-bust-of-32-million-online-gambling-ring/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/sports/17-indicted-in-bust-of-32-million-online-gambling-ring/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/3141406011446071312.png" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;The online gambling ring allegedly used an offshore website to help book $32 million in illegal sports wagers placed by more than 2,000 bettors in the United States.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/FjAEDDSCRZg" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Wed, 28 Oct 2015 23:40:11 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/sports/17-indicted-in-bust-of-32-million-online-gambling-ring/</guid>
-      <dc:date>2015-10-28T23:40:11Z</dc:date>
-    </item>
-    <item>
-      <title>Pentagon Opens Probe Into Sexual Abuse by U.S. Allies in Afghanistan</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/MExzcjZ1FPg/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/the-dancing-boys-of-afghanistan/pentagon-opens-probe-into-sexual-abuse-by-u-s-allies-in-afghanistan/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/the-dancing-boys-of-afghanistan/pentagon-opens-probe-into-sexual-abuse-by-u-s-allies-in-afghanistan/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/13367978801446058215.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;The Defense Department's Inspector General has opened an investigation into whether U.S. troops were discouraged from reporting the rape and sexual abuse of children by their Afghan allies.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/MExzcjZ1FPg" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Wed, 28 Oct 2015 20:52:51 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/afghanistan-pakistan/the-dancing-boys-of-afghanistan/pentagon-opens-probe-into-sexual-abuse-by-u-s-allies-in-afghanistan/</guid>
-      <dc:date>2015-10-28T20:52:51Z</dc:date>
-    </item>
-    <item>
-      <title>Syria: What’s In It For Putin?</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/xmwz1bNA2yw/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/syria-at-war/syria-whats-in-it-for-putin/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/syria-at-war/syria-whats-in-it-for-putin/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/17467749951445975044.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;For Russian President Vladimir Putin, Syria is not just about supporting the Assad regime in Syria. It's about Russia's place in the world.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/xmwz1bNA2yw" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Tue, 27 Oct 2015 22:56:59 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/syria-at-war/syria-whats-in-it-for-putin/</guid>
-      <dc:date>2015-10-27T22:56:59Z</dc:date>
-    </item>
-    <item>
-      <title>A Journey “Inside Assad’s Syria”</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/RinL3bP3d20/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/inside-assads-syria/a-journey-inside-assads-syria/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/inside-assads-syria/a-journey-inside-assads-syria/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/10837562241445957389.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;By the time Martin Smith reached Syria this past summer, the war was already in its fifth year, but life in regime-controlled areas was still largely a mystery.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/RinL3bP3d20" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Tue, 27 Oct 2015 16:50:20 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/inside-assads-syria/a-journey-inside-assads-syria/</guid>
-      <dc:date>2015-10-27T16:50:20Z</dc:date>
-    </item>
-    <item>
-      <title>Inside the Assad Regime’s Surreal “Summer in Syria” Campaign</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/iYhfqJj5dLg/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/inside-assads-syria/inside-the-assad-regimes-surreal-summer-in-syria-campaign/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/inside-assads-syria/inside-the-assad-regimes-surreal-summer-in-syria-campaign/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/9992552251445637884.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;The Assad government sought to promote regime-sponsored cultural events through a marketing campaign called "Summer in Syria," but the effort didn't exactly go as planned.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/iYhfqJj5dLg" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Mon, 26 Oct 2015 11:33:58 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/inside-assads-syria/inside-the-assad-regimes-surreal-summer-in-syria-campaign/</guid>
-      <dc:date>2015-10-26T11:33:58Z</dc:date>
-    </item>
-    <item>
-      <title>Is Illegal Online Gambling Staying Completely Offshore?</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/-koC9DdkuKI/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/sports/is-illegal-online-gambling-staying-completely-offshore/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/sports/is-illegal-online-gambling-staying-completely-offshore/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/3592349861445822187.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;Nearly 10 years after Congress passed a law to curb online gambling, a new investigation finds offshore sites are not only still thriving, but in some cases routing crucial parts of their operations through equipment based in the U.S.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/-koC9DdkuKI" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Mon, 26 Oct 2015 02:21:45 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/sports/is-illegal-online-gambling-staying-completely-offshore/</guid>
-      <dc:date>2015-10-26T02:21:45Z</dc:date>
-    </item>
-    <item>
-      <title>America’s Immigration Battle By the Numbers</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/1H5igBFRJ84/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/americas-immigration-battle-by-the-numbers/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/americas-immigration-battle-by-the-numbers/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/17158249081445390046.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;The U.S. has deported an average of 403,500 people each year during the Obama administration. What else do the numbers say about the nation's immigration system?&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/1H5igBFRJ84" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Wed, 21 Oct 2015 20:58:35 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/americas-immigration-battle-by-the-numbers/</guid>
-      <dc:date>2015-10-21T20:58:35Z</dc:date>
-    </item>
-    <item>
-      <title>Has the U.S. Really Shifted on Deportations?</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/ypDF3afrdgk/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/has-the-u-s-really-shifted-on-deportations/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/has-the-u-s-really-shifted-on-deportations/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/12580457401445372387.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;A year after the Obama administration changed its policy on which undocumented immigrants it would target for deportation, it's not clear who is being sent back.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/ypDF3afrdgk" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Wed, 21 Oct 2015 00:41:50 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/has-the-u-s-really-shifted-on-deportations/</guid>
-      <dc:date>2015-10-21T00:41:50Z</dc:date>
-    </item>
-    <item>
-      <title>Watch How One Freedom Caucus Member Sees the GOP’s Latino Voter Problem</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/F0ObOX8qhLE/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/watch-how-one-freedom-caucus-member-sees-the-gops-latino-voter-problem/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/watch-how-one-freedom-caucus-member-sees-the-gops-latino-voter-problem/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/18659009071445297855.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;"We're writing off too many people," Rep. Mick Mulvaney (R-SC) says in "Immigration Battle," a feature film presentation from FRONTLINE and Independent Lens that airs tonight on PBS.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/F0ObOX8qhLE" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Tue, 20 Oct 2015 16:06:32 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/immigration-2/immigration-battle/watch-how-one-freedom-caucus-member-sees-the-gops-latino-voter-problem/</guid>
-      <dc:date>2015-10-20T16:06:32Z</dc:date>
-    </item>
-    <item>
-      <title>For Some Refugees, Safe Haven Now Depends on a DNA Test</title>
-      <link>http://feedproxy.google.com/~r/FrontlineEditorsNotes/~3/nwGWAHj6_hg/</link>
-      <feedburner:origLink xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/for-some-refugees-safe-haven-now-depends-on-a-dna-test/</feedburner:origLink>
-      <description>&lt;a href="http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/for-some-refugees-safe-haven-now-depends-on-a-dna-test/"&gt;&lt;img src="http://www.pbs.org/wgbh/pages/frontline/art/omar/200/791333861445282948.jpg" width="220" height="100" alt="" style="float: left; width: 220px; margin-right: 8px; margin-bottom: 8px;" /&gt;&lt;/a&gt;Changes to a program designed to reunite refugees with family in the U.S. have slowed -- and in some cases outright denied -- legitimate entries into the country.&lt;img src="http://feeds.feedburner.com/~r/FrontlineEditorsNotes/~4/nwGWAHj6_hg" height="1" width="1" alt=""/&gt;</description>
-      <pubDate>Mon, 19 Oct 2015 20:43:58 GMT</pubDate>
-      <guid isPermaLink="false">http://www.pbs.org/wgbh/pages/frontline/foreign-affairs-defense/for-some-refugees-safe-haven-now-depends-on-a-dna-test/</guid>
-      <dc:date>2015-10-19T20:43:58Z</dc:date>
+      <title>Inaugural 'Black in X' Weeks Foster Inclusivity and Empowerment in STEM</title>
+      <link>https://www.pbs.org/wgbh/nova/article/inaugural-black-x-weeks-foster-inclusivity-and-empowerment-stem/?amp=1</link>
+      <description>Discover how Black in STEM events defined 2020, and how science educators can harness the spirit of inclusiveness in the classroom.</description>
+      <enclosure url="https://www.pbs.org/wgbh/nova/media/original_images/Corina-Newsome_by_Aliisa_Lee.png" length="2683509" type="image/png" />
+      <pubDate>Tue, 22 Dec 2020 21:11:00 GMT</pubDate>
+      <guid isPermaLink="false">https://www.pbs.org/wgbh/nova/article/inaugural-black-x-weeks-foster-inclusivity-and-empowerment-stem/?amp=1</guid>
+      <dc:creator>Kara Norton</dc:creator>
+      <dc:date>2020-12-22T21:11:00Z</dc:date>
     </item>
     <item>
       <title>Japan’s Hayabusa2 returns asteroid sample to Earth in “perfect condition”</title>
@@ -1219,16 +1004,6 @@
       <guid isPermaLink="false">https://www.pbs.org/wgbh/nova/article/kilauea-lava-phytoplankton-bloom/?amp=1</guid>
       <dc:creator>Katherine J. Wu</dc:creator>
       <dc:date>2019-09-05T18:00:32Z</dc:date>
-    </item>
-    <item>
-      <title>Fossil finger points to a surprising link between humans and Denisovans</title>
-      <link>https://www.pbs.org/wgbh/nova/article/denisovan-finger/?amp=1</link>
-      <description>New findings suggest Neanderthals evolved their unusually broad fingers after they split from Denisovans, just 400,000 years ago.</description>
-      <enclosure url="https://www.pbs.org/wgbh/nova/media/original_images/Denisova_Phalanx_distalis_9gGhHID.jpg" length="497894" type="image/jpeg" />
-      <pubDate>Thu, 05 Sep 2019 16:17:37 GMT</pubDate>
-      <guid isPermaLink="false">https://www.pbs.org/wgbh/nova/article/denisovan-finger/?amp=1</guid>
-      <dc:creator>Katherine J. Wu</dc:creator>
-      <dc:date>2019-09-05T16:17:37Z</dc:date>
     </item>
   </channel>
 </rss>

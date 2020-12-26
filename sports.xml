@@ -1,419 +1,516 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Aggregated Feed</title>
-    <link>http://www.anonymous.com</link>
-    <description>Anonymous Aggregated Feed</description>
-    <dc:creator>anonymous</dc:creator>
+    <title>Aggregated SportsFeed</title>
+    <link>https://www.thedorey.com/assets/rss/sports.xml</link>
+    <description>Aggregated SportsFeed</description>
+    <dc:creator>Derek Leggett</dc:creator>
     <item>
-      <title>Watching Tiger Woods Play an Often-Hidden Role: Dad</title>
-      <link>https://www.nytimes.com/2020/12/18/sports/golf/tiger-woods-charlie-woods.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/18/sports/golf/tiger-woods-charlie-woods.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/19/sports/18tiger-print/18tiger-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Phelan M. Ebenhack/Associated Press</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Tiger Woods, right, and his son, Charlie, will play in a televised father-son event this weekend.</media:description>
-      <description>Watching Woods and his son, Charlie, on the golf course offers a rare window into a side of Woods fans never see: dad.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woods, Tiger</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masters Golf Tournament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LaCava, Joe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orlando (Fla)</category>
-      <pubDate>Fri, 18 Dec 2020 15:47:04 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/18/sports/golf/tiger-woods-charlie-woods.html</guid>
-      <dc:creator>Karen Crouse</dc:creator>
-      <dc:date>2020-12-18T15:47:04Z</dc:date>
+      <title>Nets and Clippers Open N.B.A. Season With Big Wins</title>
+      <link>https://www.nytimes.com/2020/12/22/sports/basketball/nba-scores-nets-clippers.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/22/sports/basketball/nba-scores-nets-clippers.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/22/sports/22nba-live-paulgeorge/22nba-live-paulgeorge-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Harry How/Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Paul George had a strong performance for the Clippers on Tuesday, with 33 points on 13-of-18 shooting.</media:description>
+      <description>The Nets dominated the Warriors, and the Clippers staved off a comeback attempt by the Lakers. Kevin Durant and Paul George were the night’s stars.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brooklyn Nets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Golden State Warriors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Clippers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Lakers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Curry, Stephen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Anthony (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">George, Paul (1990- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durant, Kevin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Irving, Kyrie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, LeBron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leonard, Kawhi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, Draymond</category>
+      <pubDate>Wed, 23 Dec 2020 05:46:21 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/22/sports/basketball/nba-scores-nets-clippers.html</guid>
+      <dc:creator>Scott Cacciola and Sopan Deb</dc:creator>
+      <dc:date>2020-12-23T05:46:21Z</dc:date>
     </item>
     <item>
-      <title>Its Football Season Over, Cal Wonders: Was It Worth It?</title>
-      <link>https://www.nytimes.com/2020/12/18/sports/ncaafootball/cal-football-pac-12.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/18/sports/ncaafootball/cal-football-pac-12.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/sports/18cal-football-top2/18cal-football-top2-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Young Kwak/Associated Press</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Cal’s final game, at Washington State, was called before the players took the field.</media:description>
-      <description>Some top programs will play a dozen games this season. The Golden Bears managed only four before their season ended with a text message.</description>
+      <title>How The New England Patriots' Dynasty Fell</title>
+      <link>https://www.nytimes.com/2020/12/22/sports/football/patriots-belichick.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/22/sports/football/patriots-belichick.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/sports/23tanier-fumble/23tanier-fumble-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Mark Brown/Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The end of the Patriots’ dynasty came in Miami, on a field where they had enjoyed years of victories.</media:description>
+      <description>Empires never fall in a day. The Patriots have been quietly crumbling from within for years.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New England Patriots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Belichick, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brady, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newton, Cameron J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <pubDate>Tue, 22 Dec 2020 21:24:59 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/22/sports/football/patriots-belichick.html</guid>
+      <dc:creator>Mike Tanier</dc:creator>
+      <dc:date>2020-12-22T21:24:59Z</dc:date>
+    </item>
+    <item>
+      <title>8 Fearless N.B.A. Season Predictions</title>
+      <link>https://www.nytimes.com/2020/12/23/sports/basketball/8-fearless-nba-season-predictions.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/23/sports/basketball/8-fearless-nba-season-predictions.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/sports/22nba-stein-print/22nba-stein-harden-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Mark Mulligan/Houston Chronicle, via Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The outlook for James Harden is now about when, not if, he will be traded from the Houston Rockets.</media:description>
+      <description>Houston’s James Harden is widely expected to be traded soon. But Kevin Love? Zach LaVine? LaMarcus Aldridge? They could be on the move, too.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trades (Sports)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brooklyn Nets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houston Rockets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Curry, Stephen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harden, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durant, Kevin</category>
+      <pubDate>Wed, 23 Dec 2020 18:15:07 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/23/sports/basketball/8-fearless-nba-season-predictions.html</guid>
+      <dc:creator>Marc Stein</dc:creator>
+      <dc:date>2020-12-23T18:15:07Z</dc:date>
+    </item>
+    <item>
+      <title>Tech Solution Gives Blind Runner Hope to Run Free of a Guide</title>
+      <link>https://www.nytimes.com/2020/12/22/sports/blind-runner-marathon-technology.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/22/sports/blind-runner-marathon-technology.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/sports/18running-blind/18running-blind-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Brittainy Newman for The New York Times</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Thomas Panek, who is legally blind, last month tested new technology that allowed him to run a 5K in Central Park without a dog or another person to guide him. The yellow line was painted for the experiment.</media:description>
+      <description>A blind runner issued a challenge to technologists last year to find a way for him to run safely without a guide. They did.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blindness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Panek, Thomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guiding Eyes for the Blind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Service Dogs and Other Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <pubDate>Tue, 22 Dec 2020 15:11:00 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/22/sports/blind-runner-marathon-technology.html</guid>
+      <dc:creator>Matthew Futterman</dc:creator>
+      <dc:date>2020-12-22T15:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>N.B.A. Eastern Conference Preview: Will the Nets Reign Supreme?</title>
+      <link>https://www.nytimes.com/2020/12/21/sports/basketball/nba-eastern-conference-preview.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/21/sports/basketball/nba-eastern-conference-preview.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/sports/basketball/00nba-east-slide-RT9R/00nba-east-slide-RT9R-moth-v3.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Nathaniel S. Butler/NBAE via Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">With Kyrie Irving and Kevin Durant healthy, and a strong supporting cast, the Nets are poised to make a run to the top of the Eastern Conference.</media:description>
+      <description>The Bucks got better, but the Nets with Kyrie Irving and Kevin Durant might be too much for Milwaukee — or any other team in the East — to overcome.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlanta Hawks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boston Celtics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brooklyn Nets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Charlotte Hornets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chicago Bulls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Cavaliers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Detroit Pistons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indiana Pacers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miami Heat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Milwaukee Bucks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Knicks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Orlando Magic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Philadelphia 76ers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Toronto Raptors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Antetokounmpo, Giannis (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ball, LaMelo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durant, Kevin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Irving, Kyrie</category>
+      <pubDate>Tue, 22 Dec 2020 15:14:47 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/21/sports/basketball/nba-eastern-conference-preview.html</guid>
+      <dc:creator>Sopan Deb</dc:creator>
+      <dc:date>2020-12-22T15:14:47Z</dc:date>
+    </item>
+    <item>
+      <title>N.B.A. Western Conference Preview: The Lakers Reloaded</title>
+      <link>https://www.nytimes.com/2020/12/21/sports/basketball/nba-western-conference-preview.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/21/sports/basketball/nba-western-conference-preview.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/21/sports/00nba-west4-print/00nba-west4-print-moth-v4.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Kirby Lee/USA Today Sports, via Reuters</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The Los Angeles Lakers could be having a double-championship parade at the end of this season behind Anthony Davis and LeBron James.</media:description>
+      <description>Their championship glow still strong, the Lakers are poised to make another run, even as the Warriors bounce back and the Suns ascend.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dallas Mavericks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Denver Nuggets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Golden State Warriors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houston Rockets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Clippers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Lakers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Memphis Grizzlies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Minnesota Timberwolves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Orleans Pelicans (Basketball)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oklahoma City Thunder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Phoenix Suns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Portland Trail Blazers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Antonio Spurs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sacramento Kings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Utah Jazz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Anthony (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harden, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, LeBron</category>
+      <pubDate>Mon, 21 Dec 2020 19:40:04 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/21/sports/basketball/nba-western-conference-preview.html</guid>
+      <dc:creator>Scott Cacciola</dc:creator>
+      <dc:date>2020-12-21T19:40:04Z</dc:date>
+    </item>
+    <item>
+      <title>European Soccer Learns a New Virtue: Patience</title>
+      <link>https://www.nytimes.com/2020/12/23/sports/soccer/managers-sack-allardyce-genoa.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/23/sports/soccer/managers-sack-allardyce-genoa.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/sports/23soccer-fired/23soccer-fired-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Pool photo by Lindsey Parnaby</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Some forces are immune to the pandemic: Sam Allardyce was hired last week by West Brom, his eighth Premier League club.</media:description>
+      <description>Why have so few managers been fired this year? Pandemic economics play a role, but there are bigger forces at work, too.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Premier League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">German Bundesliga</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allardyce, Sam (1954- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Serie A (Italian Soccer League)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">West Bromwich Albion (Soccer Team)</category>
+      <pubDate>Wed, 23 Dec 2020 10:00:31 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/23/sports/soccer/managers-sack-allardyce-genoa.html</guid>
+      <dc:creator>Rory Smith</dc:creator>
+      <dc:date>2020-12-23T10:00:31Z</dc:date>
+    </item>
+    <item>
+      <title>One Month Behind, DePaul Starts Its Men’s Basketball Season</title>
+      <link>https://www.nytimes.com/2020/12/22/sports/ncaabasketball/depaul-basketball-opens-coronavirus.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/22/sports/ncaabasketball/depaul-basketball-opens-coronavirus.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/22/sports/22depaul1/22depaul1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Mitchell Layton/Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The DePaul men’s basketball team will begin its 2020-21 season on Wednesday night against Western Illinois in Chicago.</media:description>
+      <description>The program is the last in a major basketball conference to play a game, having dealt with several virus-related pauses.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DePaul University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">College Athletics</category>
+      <pubDate>Tue, 22 Dec 2020 19:45:05 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/22/sports/ncaabasketball/depaul-basketball-opens-coronavirus.html</guid>
+      <dc:creator>Adam Zagoria</dc:creator>
+      <dc:date>2020-12-22T19:45:05Z</dc:date>
+    </item>
+    <item>
+      <title>Critics of Russia’s Doping Ban Blame the System That Allowed It</title>
+      <link>https://www.nytimes.com/2020/12/21/sports/olympics/russia-doping-wada-cas.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/21/sports/olympics/russia-doping-wada-cas.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/21/sports/21russia-doping2/21russia-doping2-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Joe Klamar/Agence France-Presse — Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The American biathlete Clare Egan said she was “insulted, disappointed, discouraged” by the fine print of a ruling that reduced Russia’s ban from global sports to two years from four.</media:description>
+      <description>While athletes and experts lament a court’s reduced punishment for Russia’s doping scandal, the country is already trying to wring a new concession.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doping (Sports)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Anti-Doping Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Court of Arbitration for Sport</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
+      <pubDate>Mon, 21 Dec 2020 21:49:36 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/21/sports/olympics/russia-doping-wada-cas.html</guid>
+      <dc:creator>Andrew Keh and Tariq Panja</dc:creator>
+      <dc:date>2020-12-21T21:49:36Z</dc:date>
+    </item>
+    <item>
+      <title>How Soccer Teams in UK Kept in Contact With Older Fans During Lockdown</title>
+      <link>https://www.nytimes.com/2020/12/22/sports/soccer-coronavirus-fans.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/22/sports/soccer-coronavirus-fans.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/21/sports/21soccer-lonely-promo/21soccer-lonely-promo-moth-v3.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Elizabeth Dalziel for The New York Times</media:credit>
+      <description>When the pandemic closed stadiums in Britain, soccer clubs sought out their most vulnerable supporters to make sure they were OK. Nine months later, they’re still at it.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, Berkeley</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pacific-12 Conference</category>
-      <pubDate>Fri, 18 Dec 2020 18:21:40 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/18/sports/ncaafootball/cal-football-pac-12.html</guid>
-      <dc:creator>John Branch</dc:creator>
-      <dc:date>2020-12-18T18:21:40Z</dc:date>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Premier League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Northampton Town FC (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Plymouth Argyle (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <pubDate>Tue, 22 Dec 2020 12:22:16 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/22/sports/soccer-coronavirus-fans.html</guid>
+      <dc:creator>Jack Williams</dc:creator>
+      <dc:date>2020-12-22T12:22:16Z</dc:date>
     </item>
     <item>
-      <title>For Opponents of Native American Nicknames, 2020 Has Brought Hope</title>
-      <link>https://www.nytimes.com/2020/12/18/sports/nicknames-mascots-native-americans.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/18/sports/nicknames-mascots-native-americans.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/17/sports/00lookback-nativenames/00lookback-nativenames-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Susan Walsh/Associated Press</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">After abandoning its nickname and Native American logo in July, the N.F.L. franchise in Washington chose a simple temporary replacement,  the Washington Football Team.</media:description>
-      <description>Leaders in the movement to rid sports of such nicknames and the logos that accompany them saw a domino effect building in public schools after two major professional teams made changes. But there are staunch holdouts.</description>
+      <title>No Chiefs, Braves, Blackhawks and Seminoles. Remove Indigenous Names Now.</title>
+      <link>https://www.nytimes.com/2020/12/21/sports/football/chiefs-indians-mascot-names.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/21/sports/football/chiefs-indians-mascot-names.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/21/sports/21streeter-sot1-print/21streeter-sot1-print-moth-v2.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Charlie Neibergall/Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Kansas City Chiefs fans in January, before the team banned headdresses and face paint.</media:description>
+      <description>The Chiefs, Braves, Blackhawks and Seminoles need to follow the Cleveland baseball team in dropping their offensive names.</description>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Organizational</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mascots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <pubDate>Fri, 18 Dec 2020 23:59:07 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/18/sports/nicknames-mascots-native-americans.html</guid>
-      <dc:creator>David Waldstein</dc:creator>
-      <dc:date>2020-12-18T23:59:07Z</dc:date>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seminole Indians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlanta Braves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chicago Blackhawks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Indians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Florida State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kansas City Chiefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thorpe, Jim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mahomes, Patrick (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Organizational</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">College Athletics</category>
+      <pubDate>Mon, 21 Dec 2020 08:00:11 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/21/sports/football/chiefs-indians-mascot-names.html</guid>
+      <dc:creator>Kurt Streeter</dc:creator>
+      <dc:date>2020-12-21T08:00:11Z</dc:date>
     </item>
     <item>
-      <title>NFL Week 15 Predictions: Our Picks Against the Spread</title>
-      <link>https://www.nytimes.com/2020/12/17/sports/football/nfl-picks-week-15.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/17/sports/football/nfl-picks-week-15.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/17/sports/17nfl-matchups-top/17nfl-matchups-top-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Tyler Kaufman/Associated Press</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Drew Brees hasn’t played since Week 10. Can he come back from a rib injury to lead New Orleans in a crucial matchup against Kansas City?</media:description>
-      <description>Saturday games return, but this week is dominated by a potential Super Bowl preview between the Saints and the Chiefs.</description>
+      <title>Baseball Hall of Fame Hopes to Contextualize Problematic Inductees</title>
+      <link>https://www.nytimes.com/2020/12/21/sports/baseball/hall-of-fame.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/21/sports/baseball/hall-of-fame.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/21/sports/21mlb-kepner-1/21mlb-kepner-1-moth-v2.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Jim McIsaac/Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">While the Baseball Hall of Fame’s plaques focus on positive accomplishments, the museum is hoping new signs and displays can add some context to problematic inductees.</media:description>
+      <description>Rather than remove the plaques of its most problematic inductees, the Baseball Hall of Fame is hoping to explain them.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baseball Hall of Fame</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clark, Jane Forbes II (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landis, Kenesaw Mountain (1866-1944)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yawkey, Thomas A (1903-76)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anson, Cap</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
+      <pubDate>Mon, 21 Dec 2020 16:54:49 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/21/sports/baseball/hall-of-fame.html</guid>
+      <dc:creator>Tyler Kepner</dc:creator>
+      <dc:date>2020-12-21T16:54:49Z</dc:date>
+    </item>
+    <item>
+      <title>Simple, Affordable and Socially Distanced, Snowshoeing Gets Hot</title>
+      <link>https://www.nytimes.com/2020/12/23/travel/snowshoeing-coronavirus.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/23/travel/snowshoeing-coronavirus.html" rel="standout" />
+      <description>As biking was to spring, snowshoeing is to winter as exercisers adapt to cold weather.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snowshoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <pubDate>Wed, 23 Dec 2020 10:00:21 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/23/travel/snowshoeing-coronavirus.html</guid>
+      <dc:creator>Elaine Glusac</dc:creator>
+      <dc:date>2020-12-23T10:00:21Z</dc:date>
+    </item>
+    <item>
+      <title>Kevin Greene, Master of Sacking the Quarterback, Dies at 58</title>
+      <link>https://www.nytimes.com/2020/12/22/sports/football/kevin-greene-dead.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/22/sports/football/kevin-greene-dead.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/obituaries/22Greene1/22Greene1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">George Gojkovich/Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The linebacker Kevin Greene in 1994, the year he led the N.F.L. in sacks for the Pittsburgh Steelers. He said that sacking a quarterback brought him relief.</media:description>
+      <description>A charismatic player with seemingly inexhaustible energy, he recorded the third-most sacks in N.F.L. history and the most by a linebacker.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halls of Fame</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greene, Kevin</category>
+      <pubDate>Wed, 23 Dec 2020 00:36:00 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/22/sports/football/kevin-greene-dead.html</guid>
+      <dc:creator>Richard Sandomir</dc:creator>
+      <dc:date>2020-12-23T00:36:00Z</dc:date>
+    </item>
+    <item>
+      <title>N.B.A. 2020-21 Predictions: LeBron James vs. Luka Doncic for M.V.P.</title>
+      <link>https://www.nytimes.com/2020/12/22/sports/basketball/nba-predictions-mvp.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/22/sports/basketball/nba-predictions-mvp.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/22/sports/21nba-predictions-print/21nba-predictions-slide-0TNQ-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Gary A. Vasquez/USA Today Sports, via Reuters</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Our predictors see a two-man race for the Most Valuable Player Award: LeBron James vs. Luka Doncic.</media:description>
+      <description>Our panel predicts a big year for the Nets and the Pelicans’ Zion Williamson, a surprise from Damian Lillard, a Lakers repeat and a fierce battle among the rookies.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Lakers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brooklyn Nets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Antetokounmpo, Giannis (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ball, LaMelo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Anthony (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harden, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, LeBron</category>
+      <pubDate>Tue, 22 Dec 2020 08:00:14 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/22/sports/basketball/nba-predictions-mvp.html</guid>
+      <dc:creator>Scott Cacciola</dc:creator>
+      <dc:date>2020-12-22T08:00:14Z</dc:date>
+    </item>
+    <item>
+      <title>The Marathon Project: Sara Hall and Martin Hehir Win</title>
+      <link>https://www.nytimes.com/2020/12/21/sports/marathon-project-sara-hall-martin-hehir.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/21/sports/marathon-project-sara-hall-martin-hehir.html" rel="standout" />
+      <description>Coaches and agents were desperate to help their athletes compete in a year void of competition. So they created a marathon themselves, and watched the list of the fastest American marathons times get rewritten.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hall, Sara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <pubDate>Mon, 21 Dec 2020 23:13:08 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/21/sports/marathon-project-sara-hall-martin-hehir.html</guid>
+      <dc:creator>Michelle Hamilton</dc:creator>
+      <dc:date>2020-12-21T23:13:08Z</dc:date>
+    </item>
+    <item>
+      <title>Tested Again, the Chiefs Flex Their Survival Skills</title>
+      <link>https://www.nytimes.com/2020/12/20/sports/football/saints-chiefs-score-mahomes-brees.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/20/sports/football/saints-chiefs-score-mahomes-brees.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/20/sports/20nfl-kcvsno-1/20nfl-kcvsno-1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Brett Duke/Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Patrick Mahomes and the Chiefs earned their ninth straight win on Sunday.</media:description>
+      <description>Kansas City (13-1) has come back in four of its last six games, and while the Chiefs do not seem invincible, they hardly seem beatable.</description>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kansas City Chiefs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Orleans Saints</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mahomes, Patrick (1995- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brees, Drew</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Seattle Seahawks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tampa Bay Buccaneers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlanta Falcons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Browns</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Chargers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Raiders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baltimore Ravens</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Lamar (1997- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Redskins</category>
-      <pubDate>Fri, 18 Dec 2020 22:46:06 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/17/sports/football/nfl-picks-week-15.html</guid>
-      <dc:creator>Benjamin Hoffman</dc:creator>
-      <dc:date>2020-12-18T22:46:06Z</dc:date>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Edwards-Helaire, Clyde (1999- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bell, Le'Veon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hill, Tyreek (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mahomes, Patrick (1995- )</category>
+      <pubDate>Mon, 21 Dec 2020 12:50:48 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/20/sports/football/saints-chiefs-score-mahomes-brees.html</guid>
+      <dc:creator>Ben Shpigel</dc:creator>
+      <dc:date>2020-12-21T12:50:48Z</dc:date>
     </item>
     <item>
-      <title>A First for Sarah Fuller, but That Wasn’t the Last of It</title>
-      <link>https://www.nytimes.com/2020/12/17/sports/ncaafootball/sarah-fuller-women-firsts.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/17/sports/ncaafootball/sarah-fuller-women-firsts.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/10/sports/00fuller/00fuller-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">L.G. Patterson/Associated Press</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Sarah Fuller gained more notice by kicking for Vanderbilt’s winless football team than by leading Vanderbilt’s women’s soccer team to the Southeastern Conference tournament title.</media:description>
-      <description>Women broke through glass ceilings to gain roles in men’s sports this year. But the celebration of their place in history, and sometimes the pushback, can overshadow their work.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vanderbilt University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fuller, Sarah (Athlete)</category>
-      <pubDate>Thu, 17 Dec 2020 20:49:34 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/17/sports/ncaafootball/sarah-fuller-women-firsts.html</guid>
-      <dc:creator>Marisa Ingemi</dc:creator>
-      <dc:date>2020-12-17T20:49:34Z</dc:date>
-    </item>
-    <item>
-      <title>College Football Season Is Nearly Over. Then the Big TV Negotiations Begin.</title>
-      <link>https://www.nytimes.com/2020/12/18/sports/ncaafootball/big-ten-television-espn-fox.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/18/sports/ncaafootball/big-ten-television-espn-fox.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/sports/18collegefootball-tv/18collegefootball-tv-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Matt Cashore/USA Today Sports, via Reuters</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">ESPN’s pregame show “College GameDay” is a fixture of the college football season for a company that pays hundreds of millions of dollars to the Big Ten Conference to show its games. Canceled games present a new financial challenge to those deals.</media:description>
-      <description>ESPN and Fox didn’t get about 20 games from the Big Ten Conference this season. Those events were worth roughly $110 million, leaving college sports and TV executives with much to resolve.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">College Athletics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Big Ten Conference</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox Sports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Kevin (1963- )</category>
-      <pubDate>Fri, 18 Dec 2020 10:00:19 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/18/sports/ncaafootball/big-ten-television-espn-fox.html</guid>
-      <dc:creator>Kevin Draper and Alan Blinder</dc:creator>
-      <dc:date>2020-12-18T10:00:19Z</dc:date>
-    </item>
-    <item>
-      <title>What Qualifies as Success at Borussia Dortmund?</title>
-      <link>https://www.nytimes.com/2020/12/18/sports/soccer/dortmund-haaland-reyna-sancho.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/18/sports/soccer/dortmund-haaland-reyna-sancho.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/20/sports/18rorynewsletter-top/18rorynewsletter-top-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Friedemann Vogel/EPA, via Shutterstock</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Three of Dortmund’s crown jewels: Giovanni Reyna, Erling Haaland and Jadon Sancho.</media:description>
-      <description>Borussia Dortmund’s business is winning matches and grooming some of the world’s best young talent. To do both, sometimes you have to put up with a few growing pains.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">UEFA Champions League (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Borussia Dortmund (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayern Munich (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reyna, Giovanni (2002- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haaland, Erling Braut</category>
-      <pubDate>Fri, 18 Dec 2020 18:16:56 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/18/sports/soccer/dortmund-haaland-reyna-sancho.html</guid>
-      <dc:creator>Rory Smith</dc:creator>
-      <dc:date>2020-12-18T18:16:56Z</dc:date>
-    </item>
-    <item>
-      <title>Baseball Rights a Wrong by Adding Negro Leagues to Official Records</title>
-      <link>https://www.nytimes.com/2020/12/16/sports/baseball/mlb-negro-leagues.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/16/sports/baseball/mlb-negro-leagues.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/17/sports/17negroleagues-p1/17negroleagues-p1-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Bettmann/Getty Images</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">From left to right, the pitchers John Stanley, Frank McAllister and Gene Smith of the Negro National League's New York Black Yankees standing on the top step of their dugout in 1942.</media:description>
-      <description>More than 3,400 players from seven leagues that operated from 1920 to 1948 will now be considered major leaguers in a move that will shake up the record books.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Negro League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Statistics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Major League Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manfred, Robert D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
-      <pubDate>Thu, 17 Dec 2020 01:27:41 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/16/sports/baseball/mlb-negro-leagues.html</guid>
-      <dc:creator>Tyler Kepner</dc:creator>
-      <dc:date>2020-12-17T01:27:41Z</dc:date>
-    </item>
-    <item>
-      <title>Manny Ramirez, 48, Brings His Bat to the Sydney Blue Sox</title>
-      <link>https://www.nytimes.com/2020/12/16/sports/baseball/manny-ramirez-sydney-blue-sox.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/16/sports/baseball/manny-ramirez-sydney-blue-sox.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/16/sports/16mlb-manny1/16mlb-manny1-moth-v3.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Isabella Moore for The New York Times</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Manny Ramirez seen at Sydney Blue Sox stadium before team practice last week.</media:description>
-      <description>The Sydney Blue Sox were stunned that Manny Ramirez, 48, wanted to join the Australian Baseball League. They’re counting on the former superstar to raise baseball’s profile in the country.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramirez, Manny</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dobb, Adam (Sports Executive)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sydney Blue Sox</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Australian Baseball League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sydney (Australia)</category>
-      <pubDate>Thu, 17 Dec 2020 02:28:24 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/16/sports/baseball/manny-ramirez-sydney-blue-sox.html</guid>
-      <dc:creator>Gary Phillips</dc:creator>
-      <dc:date>2020-12-17T02:28:24Z</dc:date>
-    </item>
-    <item>
-      <title>CAS Reduces Russia’s Doping Ban to Two Years</title>
-      <link>https://www.nytimes.com/2020/12/17/sports/olympics/russia-doping-wada.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/17/sports/olympics/russia-doping-wada.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/17/sports/17russia-doping-newtop/17russia-doping-newtop-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Matt Slocum/Associated Press</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">The decision to reduce Russia’s ban from global sports includes important loopholes for Russian athletes.</media:description>
-      <description>The ruling by the Court of Arbitration for Sport reduced a four-year ban to two. It will keep Russian teams — but not necessarily Russian athletes — out of the next two Olympics.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doping (Sports)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Court of Arbitration for Sport</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Anti-Doping Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2022 (Soccer)</category>
-      <pubDate>Thu, 17 Dec 2020 19:18:53 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/17/sports/olympics/russia-doping-wada.html</guid>
-      <dc:creator>Tariq Panja</dc:creator>
-      <dc:date>2020-12-17T19:18:53Z</dc:date>
-    </item>
-    <item>
-      <title>Australian Open Is Postponed Because of the Coronavirus Pandemic</title>
-      <link>https://www.nytimes.com/2020/12/16/sports/tennis/covid-australian-open-postponed.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/16/sports/tennis/covid-australian-open-postponed.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/lens/18virus-aussietennis-print1/00hfo-virus-aussietennis-photo-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Scott Barbour/EPA, via Shutterstock</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Dominic Thiem, left, and Novak Djokovic in the 2020 Australian Open men&amp;rsquo;s final.</media:description>
-      <description>With infections surging in other parts of the world, the first Grand Slam tennis event of 2021 has been delayed by three weeks, according to a schedule released by the men’s tour.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tennis Australia Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Melbourne (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Australian Open (Tennis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Djokovic, Novak</category>
-      <pubDate>Thu, 17 Dec 2020 20:47:55 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/16/sports/tennis/covid-australian-open-postponed.html</guid>
-      <dc:creator>Matthew Futterman</dc:creator>
-      <dc:date>2020-12-17T20:47:55Z</dc:date>
-    </item>
-    <item>
-      <title>How Putting on a Mask Raised Naomi Osaka’s Voice</title>
-      <link>https://www.nytimes.com/2020/12/16/sports/tennis/naomi-osaka-protests-open.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/16/sports/tennis/naomi-osaka-protests-open.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/20/sports/16osaka/16osaka-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Chang W. Lee/The New York Times</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Naomi Osaka after winning the U.S. Open.</media:description>
-      <description>She used her time away from competing during the pandemic to reflect on the world and her place within it. When the time came to speak, she approached it in her own distinct way.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Osaka, Naomi (1997- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <pubDate>Wed, 16 Dec 2020 20:06:56 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/16/sports/tennis/naomi-osaka-protests-open.html</guid>
-      <dc:creator>Elena Bergeron</dc:creator>
-      <dc:date>2020-12-16T20:06:56Z</dc:date>
-    </item>
-    <item>
-      <title>Can Any A.F.C. Team Catch the Chiefs?</title>
-      <link>https://www.nytimes.com/2020/12/16/sports/football/kansas-city-chiefs-playoffs-afc.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/16/sports/football/kansas-city-chiefs-playoffs-afc.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/16/sports/16nfl-tanier-1/16nfl-tanier-1-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Jamie Squire/Getty Images</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Kansas City quarterback Patrick Mahomes, left, and receiver Tyreek Hill, with football, usually connect for a few 40-yard touchdowns to compensate for any Chiefs miscues.</media:description>
-      <description>Sure, Kansas City (12-1) is flawed, but its closest challengers have a long way to go to usurp a Super Bowl berth.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Football Conference</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baltimore Ravens</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buffalo Bills</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Browns</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indianapolis Colts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kansas City Chiefs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Las Vegas Raiders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miami Dolphins</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pittsburgh Steelers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tennessee Titans</category>
-      <pubDate>Thu, 17 Dec 2020 05:11:48 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/16/sports/football/kansas-city-chiefs-playoffs-afc.html</guid>
-      <dc:creator>Mike Tanier</dc:creator>
-      <dc:date>2020-12-17T05:11:48Z</dc:date>
-    </item>
-    <item>
-      <title>N.B.A. Hopes for ‘as Close to a Normal Season as Possible’</title>
-      <link>https://www.nytimes.com/2020/12/16/sports/basketball/nba-preseason-coronavirus.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/16/sports/basketball/nba-preseason-coronavirus.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/sports/18nba-stein-print1/15nba-steinnewsletter-fans-moth-v2.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Kevin C. Cox/Getty Images</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">The N.B.A. is back, but it&amp;rsquo;s clear it&amp;rsquo;s not the same &amp;mdash; and no one can be sure when it will be closer to what it was before the pandemic.</media:description>
-      <description>The league is embarking on a season with restrictions but no bubble: Yes to trips to Whole Foods. No to crowded elevators and the hotel gift shop.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuban, Mark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harden, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fournier, Evan (1992- )</category>
-      <pubDate>Wed, 16 Dec 2020 21:40:32 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/16/sports/basketball/nba-preseason-coronavirus.html</guid>
-      <dc:creator>Marc Stein</dc:creator>
-      <dc:date>2020-12-16T21:40:32Z</dc:date>
-    </item>
-    <item>
-      <title>Not the Matchup They Wanted: Gennadiy Golovkin vs. Kamil Szeremeta and Saul Alvarez vs. Callum Smith</title>
-      <link>https://www.nytimes.com/2020/12/18/sports/boxing-canelo-alvarez-ggg-fights.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/18/sports/boxing-canelo-alvarez-ggg-fights.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/sports/18canelo-sub/18canelo-sub-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Steve Marcus/Getty Images</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Saul Alvarez, who is known as Canelo, celebrates after defeating Sergey Kovalev by knockout in a light heavyweight WBO title bout, in Las Vegas in 2019.</media:description>
-      <description>The two stars face other contenders as the DAZN streaming service works through complicated factors to arrange for another rematch.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boxing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DAZN Group Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Boxing Council</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alvarez, Canelo (1990- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Golovkin, Gennady</category>
-      <pubDate>Fri, 18 Dec 2020 23:11:24 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/18/sports/boxing-canelo-alvarez-ggg-fights.html</guid>
-      <dc:creator>Morgan Campbell</dc:creator>
-      <dc:date>2020-12-18T23:11:24Z</dc:date>
-    </item>
-    <item>
-      <title>Henrik Lundqvist Will Not Play Next Season Due to a Heart Condition</title>
-      <link>https://www.nytimes.com/2020/12/17/sports/hockey/henrik-lundqvist-heart-condition.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/17/sports/hockey/henrik-lundqvist-heart-condition.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/17/sports/17nhl-lundqvist-web-2/17nhl-lundqvist-web-2-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Andre Ringuette/Freestyle Photo/Getty Images</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Henrik Lundqvist last played in August, at the N.H.L.’s bubble in Toronto.</media:description>
-      <description>Two months after signing with the Washington Capitals, the former Rangers goaltender said he made the decision after “many weeks of tests and conversations with specialists around the country.”</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lundqvist, Henrik</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+      <title>N.H.L. and Players' Union Agree to Start Season in January</title>
+      <link>https://www.nytimes.com/2020/12/20/sports/hockey/2021-nhl-season-start.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/20/sports/hockey/2021-nhl-season-start.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/20/sports/20nhl-season-web-1/20nhl-season-web-1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Perry Nelson/USA Today Sports, via Reuters</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The Tampa Bay Lightning won the 2020 Stanley Cup in Edmonton, Alberta, in an arena without fans. </media:description>
+      <description>The season would start Jan. 13 with all seven Canadian teams in one division, but authorities in Canada need to approve plans for teams to practice and play in their markets.</description>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hockey League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Capitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Rangers</category>
-      <pubDate>Thu, 17 Dec 2020 21:18:56 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/17/sports/hockey/henrik-lundqvist-heart-condition.html</guid>
-      <dc:creator>Allan Kreda</dc:creator>
-      <dc:date>2020-12-17T21:18:56Z</dc:date>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bettman, Gary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <pubDate>Mon, 21 Dec 2020 01:16:46 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/20/sports/hockey/2021-nhl-season-start.html</guid>
+      <dc:creator>Andrew Knoll</dc:creator>
+      <dc:date>2020-12-21T01:16:46Z</dc:date>
     </item>
     <item>
-      <title>Cory Booker's College Athletes Bill of Rights Would Let Players Share Profits</title>
-      <link>https://www.nytimes.com/2020/12/17/sports/ncaafootball/college-athlete-bill-of-rights.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/17/sports/ncaafootball/college-athlete-bill-of-rights.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/sports/18collegesports-print1/17collegesports1-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Ken Ruinard/USA Today Sports, via Reuters</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Trevor Lawrence has had a terrific career at Clemson. Legislation introduced by Senator Cory Booker would lead to players like Lawrence receiving a share of the profits generated by their sport.</media:description>
-      <description>The legislation, introduced by Senator Cory Booker, could allow college football players and men’s basketball players to receive six-figure paychecks.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball (College)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">College Athletics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Collegiate Athletic Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Booker, Cory A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blumenthal, Richard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <pubDate>Fri, 18 Dec 2020 02:04:36 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/17/sports/ncaafootball/college-athlete-bill-of-rights.html</guid>
-      <dc:creator>Billy Witz</dc:creator>
-      <dc:date>2020-12-18T02:04:36Z</dc:date>
+      <title>Jets’ First Win May Cost Them the No. 1 Pick</title>
+      <link>https://www.nytimes.com/2020/12/20/sports/football/jets-upset-rams-draft-pick.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/20/sports/football/jets-upset-rams-draft-pick.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/20/sports/20jets-1/20jets-1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Ashley Landis/Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Jets quarterback Sam Darnold, right, celebrated an 18-yard touchdown pass to running back Ty Johnson on the team’s first drive of Sunday’s game against the Los Angeles Rams.</media:description>
+      <description>The Jets beat the Los Angeles Rams for their first win of the season, but the victory may give the Jacksonville Jaguars the top pick in the 2021 N.F.L. draft.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Rams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Jets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crowder, Jamison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goff, Jared T (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gore, Frank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darnold, Sam (1997- )</category>
+      <pubDate>Mon, 21 Dec 2020 13:04:39 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/20/sports/football/jets-upset-rams-draft-pick.html</guid>
+      <dc:creator>Ken Belson</dc:creator>
+      <dc:date>2020-12-21T13:04:39Z</dc:date>
     </item>
     <item>
-      <title>Video Games in 2020: These People Are Changing the Culture</title>
-      <link>https://www.nytimes.com/2020/12/17/style/video-games-inclusion.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/17/style/video-games-inclusion.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/20/fashion/14WOMEN-IN-GAMING1/14WOMEN-IN-GAMING1-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Michelle Groskopf for The New York Times</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Benita Novshadian, a professional Counter-Strike player, at her home gaming station. &amp;ldquo;The esports scene for women right now is the biggest it has ever been,&amp;rdquo; she said.</media:description>
-      <description>Designers, competitors, streamers, voice actors and labor activists have been working to make gaming more inclusive.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Fortnite (Video Game)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Last of Us Part II (Video Game)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Naughty Dog Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Riot Games Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitch Interactive Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-internet-culture</category>
-      <pubDate>Fri, 18 Dec 2020 16:11:55 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/17/style/video-games-inclusion.html</guid>
-      <dc:creator>Anita Sarkeesian and Carolyn Petit</dc:creator>
-      <dc:date>2020-12-18T16:11:55Z</dc:date>
+      <title>NFL Week 15: What We Learned</title>
+      <link>https://www.nytimes.com/2020/12/20/sports/football/nfl-week-15-scores-results.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/20/sports/football/nfl-week-15-scores-results.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/20/sports/20nfl-wwl-top/20nfl-wwl-top-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Brett Carlsen/Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Tennessee’s Derrick Henry demolished Detroit’s Alex Myres with a vicious stiff arm in the first half of the Titans’ 46-25 win over the Lions.</media:description>
+      <description>The Chiefs won a potential Super Bowl preview against the Saints, the Titans and the Colts stayed hot and the previously winless Jets pulled off the upset of the season.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tennessee Titans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry, Derrick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miami Dolphins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Howard, Xavien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indianapolis Colts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tampa Bay Buccaneers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chicago Bears</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bryant, Dez</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baltimore Ravens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Montgomery, David (1997- )</category>
+      <pubDate>Mon, 21 Dec 2020 14:03:10 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/20/sports/football/nfl-week-15-scores-results.html</guid>
+      <dc:creator>Benjamin Hoffman</dc:creator>
+      <dc:date>2020-12-21T14:03:10Z</dc:date>
     </item>
     <item>
-      <title>Roberto Firmino's Goal Vaults Liverpool Over Tottenham in Premier League</title>
-      <link>https://www.nytimes.com/2020/12/16/sports/soccer/liverpool-tottenham.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/16/sports/soccer/liverpool-tottenham.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/16/sports/16onsoccer-firminosub/16onsoccer-firminosub-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Pool photo by Peter Powell</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">Roberto Firmino’s header in the 90th minute gave Liverpool a 2-1 victory over Tottenham at Anfield.</media:description>
-      <description>A lineup altered by injury, and supplemented by youth, summons the energy to beat Tottenham at Anfield.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liverpool (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tottenham Hotspur (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mourinho, Jose</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Premier League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klopp, Jurgen Norbert (1967- )</category>
-      <pubDate>Thu, 17 Dec 2020 00:44:06 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/16/sports/soccer/liverpool-tottenham.html</guid>
-      <dc:creator>Rory Smith</dc:creator>
-      <dc:date>2020-12-17T00:44:06Z</dc:date>
+      <title>Utah Jazz owners Ryan and Ashley Smith bring their love of basketball and their state to the NBA</title>
+      <link>https://www.nba.com/jazz/utah-jazz-owners-ryan-and-ashley-smith-bring-their-love-basketball-and-their-state-nba</link>
+      <description>Life is a series of experiences.
+In the case of Ryan Smith, experience is life.</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/smiths_solo.png?cw=100&amp;ch=100&amp;w=178&amp;h=100&amp;x=39&amp;y=0" length="18526" type="image/png" />
+      <pubDate>Wed, 23 Dec 2020 19:48:26 GMT</pubDate>
+      <guid isPermaLink="false">32141</guid>
+      <dc:creator>Aaron Falk</dc:creator>
+      <dc:date>2020-12-23T19:48:26Z</dc:date>
     </item>
     <item>
-      <title>Yankees Say D.J. LeMahieu Is Worth Waiting For</title>
-      <link>https://www.nytimes.com/2020/12/16/sports/baseball/yankees-brian-cashman-dj-lemahieu.html</link>
-      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/16/sports/baseball/yankees-brian-cashman-dj-lemahieu.html" rel="standout" />
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/16/sports/16yankees-dj/16yankees-dj-moth.jpg" width="151" />
-      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Gary A. Vasquez/USA Today Sports, via Reuters</media:credit>
-      <media:description xmlns:media="http://search.yahoo.com/mrss/">D.J. LeMahieu hit .364 for the Yankees in this year’s truncated 60-game season.</media:description>
-      <description>The team’s primary off-season goal remains re-signing the free-agent infielder, who could command a lucrative four-year contract at age 32.</description>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Free Agents (Sports)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Major League Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Yankees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cashman, Brian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeMahieu, David John (DJ) (1988- )</category>
-      <pubDate>Wed, 16 Dec 2020 22:46:25 GMT</pubDate>
-      <guid isPermaLink="false">https://www.nytimes.com/2020/12/16/sports/baseball/yankees-brian-cashman-dj-lemahieu.html</guid>
-      <dc:creator>James Wagner</dc:creator>
-      <dc:date>2020-12-16T22:46:25Z</dc:date>
+      <title>Utah Jazz want to &amp;#039;come out ready to go&amp;#039; as they prepare for season-opener in Portland</title>
+      <link>https://www.nba.com/jazz/news/utah-jazz-want-come-out-ready-go-they-prepare-season-opener-portland</link>
+      <description>A short summer?
+A strange training camp?
+A truncated preseason?</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1230195918.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="32285" type="image/jpeg" />
+      <pubDate>Tue, 22 Dec 2020 23:09:33 GMT</pubDate>
+      <guid isPermaLink="false">32139</guid>
+      <dc:creator>Aaron Falk</dc:creator>
+      <dc:date>2020-12-22T23:09:33Z</dc:date>
+    </item>
+    <item>
+      <title>&amp;#039;Where my heart is&amp;#039;: Rudy Gobert discusses his contract extension with the Utah Jazz and his hopes for the future</title>
+      <link>https://www.nba.com/jazz/news/where-my-heart-rudy-gobert-discusses-his-contract-extension-utah-jazz-and-his-hopes-future</link>
+      <description>Rudy Gobert, more than anything else, wants to be a champion. He has envisioned it. Confetti falling. Champagne popping.</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/jaz1920_roster_gobert_hero.jpg?cw=100&amp;ch=100&amp;w=225&amp;h=100&amp;x=63&amp;y=0" length="21438" type="image/jpeg" />
+      <pubDate>Sun, 20 Dec 2020 21:49:25 GMT</pubDate>
+      <guid isPermaLink="false">32131</guid>
+      <dc:creator>Aaron Falk</dc:creator>
+      <dc:date>2020-12-20T21:49:25Z</dc:date>
+    </item>
+    <item>
+      <title>Jazz sign Rudy Gobert to contract extension</title>
+      <link>https://www.nba.com/jazz/news/jazz-sign-rudy-gobert-contract-extension</link>
+      <description>The Utah Jazz announced today that the team has signed two-time Defensive Player of the Year, three-time All-NBA honoree and four-time Al</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/jaz2021_freeagency_signed_gobert1920x1080.jpg?cw=100&amp;ch=100&amp;w=178&amp;h=100&amp;x=39&amp;y=0" length="33408" type="image/jpeg" />
+      <pubDate>Sun, 20 Dec 2020 16:00:53 GMT</pubDate>
+      <guid isPermaLink="false">32130</guid>
+      <dc:creator>Angie Treasure</dc:creator>
+      <dc:date>2020-12-20T16:00:53Z</dc:date>
+    </item>
+    <item>
+      <title>Jazz Waive Yogi Ferrell and Malcolm Miller</title>
+      <link>https://www.nba.com/jazz/news/jazz-waive-yogi-ferrell-and-malcolm-miller</link>
+      <description>The Utah Jazz announced today that the team has waived guard Yogi Ferrell and forward Malcolm Miller. </description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1134271282.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="21210" type="image/jpeg" />
+      <pubDate>Sun, 20 Dec 2020 00:12:22 GMT</pubDate>
+      <guid isPermaLink="false">32127</guid>
+      <dc:creator>Angie Treasure</dc:creator>
+      <dc:date>2020-12-20T00:12:22Z</dc:date>
+    </item>
+    <item>
+      <title>Roundball Roundup: Noah Eagle on Seinfeld, Kawhi, and Jazz-Clippers</title>
+      <link>https://www.nba.com/jazz/news/roundball-roundup-noah-eagle-seinfeld-kawhi-and-jazz-clippers</link>
+      <description>Noah Eagle, radio voice for the Los Angeles Clippers, is the bridge between the end of the preseason and start of the NBA on T</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/noah_eagle_thumb.jpg?cw=100&amp;ch=100&amp;w=183&amp;h=100&amp;x=42&amp;y=0" length="15326" type="image/jpeg" />
+      <pubDate>Sat, 19 Dec 2020 15:54:04 GMT</pubDate>
+      <guid isPermaLink="false">32126</guid>
+      <dc:creator>JP Chunga</dc:creator>
+      <dc:date>2020-12-19T15:54:04Z</dc:date>
     </item>
     <item>
       <title>Jazz Sign Yogi Ferrell and Malcolm Miller</title>
@@ -461,72 +558,228 @@ Yes, it is.</description>
       <dc:date>2020-12-16T16:32:38Z</dc:date>
     </item>
     <item>
-      <title>Jazz waive Nigel Williams-Goss</title>
-      <link>https://www.nba.com/jazz/news/jazz-waive-nigel-williams-goss</link>
-      <description>The Utah Jazz announced today that the team has waived guard Nigel Williams-Goss.</description>
-      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
-      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1227825797.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="26848" type="image/jpeg" />
-      <pubDate>Wed, 16 Dec 2020 00:14:35 GMT</pubDate>
-      <guid isPermaLink="false">32104</guid>
-      <dc:creator>Angie Treasure</dc:creator>
-      <dc:date>2020-12-16T00:14:35Z</dc:date>
+      <title>Sources: Rockets, NBA reviewing Harden video</title>
+      <link>https://www.espn.com/nba/story/_/id/30588182/houston-rockets-nba-reviewing-james-harden-strip-club-video-sources-say</link>
+      <description>The Rockets are working with the NBA office to review video of James Harden at a club, a source told ESPN's Tim MacMahon on Wednesday.</description>
+      <pubDate>Wed, 23 Dec 2020 18:42:49 GMT</pubDate>
+      <guid isPermaLink="false">30588182</guid>
+      <dc:date>2020-12-23T18:42:49Z</dc:date>
     </item>
     <item>
-      <title>Defense and a third-quarter run propel the Utah Jazz past the Phoenix Suns in preseason play</title>
-      <link>https://www.nba.com/jazz/defense-and-third-quarter-run-propel-utah-jazz-past-phoenix-suns-preseason-play</link>
-      <description>Things weren’t clicking for Donovan Mitchell and the Utah Jazz early in Monday night’s preseason tune-up.</description>
-      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
-      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1230131345.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="32872" type="image/jpeg" />
-      <pubDate>Tue, 15 Dec 2020 05:34:44 GMT</pubDate>
-      <guid isPermaLink="false">32100</guid>
-      <dc:creator>Aaron Falk</dc:creator>
-      <dc:date>2020-12-15T05:34:44Z</dc:date>
+      <title>Sources: Wall, Cousins home as Rockets trace</title>
+      <link>https://www.espn.com/nba/story/_/id/30588899/sources-houston-rockets-john-wall-sent-home-rockets-trace-covid</link>
+      <description>Rockets guard John Wall has been sent home while the team conducts contact tracing and retests a teammate for the coronavirus, sources told ESPN.</description>
+      <pubDate>Wed, 23 Dec 2020 18:42:49 GMT</pubDate>
+      <guid isPermaLink="false">30588899</guid>
+      <dc:date>2020-12-23T18:42:49Z</dc:date>
     </item>
     <item>
-      <title>The Utah Jazz start preseason play with a win over the Suns in their first game back at Vivint Arena since March</title>
-      <link>https://www.nba.com/jazz/news/utah-jazz-start-preseason-play-win-over-suns-their-first-game-back-vivint-arena-march</link>
-      <description>Vivint Arena looked different.
-Of course it did.
-It had to.</description>
-      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
-      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1230095648.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="63752" type="image/jpeg" />
-      <pubDate>Sun, 13 Dec 2020 05:10:40 GMT</pubDate>
-      <guid isPermaLink="false">32087</guid>
-      <dc:creator>Aaron Falk</dc:creator>
-      <dc:date>2020-12-13T05:10:40Z</dc:date>
+      <title>Roethlisberger: Playing 'like poo,' must be better</title>
+      <link>https://www.espn.com/nfl/story/_/id/30588967/pittsburgh-steelers-qb-ben-roethlisberger-says-playing-poo</link>
+      <description>Steelers QB Ben Roethlisberger said he understands the recent criticism after the team has lost three in a row following an 11-0 start. "When you play like poo, you should get talked about like that," he said.</description>
+      <pubDate>Wed, 23 Dec 2020 18:42:49 GMT</pubDate>
+      <guid isPermaLink="false">30588967</guid>
+      <dc:date>2020-12-23T18:42:49Z</dc:date>
     </item>
     <item>
-      <title>Utah Jazz sign Trevon Bluiett</title>
-      <link>https://www.nba.com/jazz/utah-jazz-sign-trevon-bluiett</link>
-      <description>The Utah Jazz announced today that the team has signed guard Trevon Bluiett. Per team policy, terms of the deal were not released.</description>
-      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
-      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1204086004.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="38034" type="image/jpeg" />
-      <pubDate>Fri, 11 Dec 2020 22:29:28 GMT</pubDate>
-      <guid isPermaLink="false">32078</guid>
-      <dc:creator>Angie Treasure</dc:creator>
-      <dc:date>2020-12-11T22:29:28Z</dc:date>
+      <title>Pats' Fisch replaces Sumlin as Arizona's coach</title>
+      <link>https://www.espn.com/college-football/story/_/id/30588254/arizona-wildcats-hire-new-england-patriots-jedd-fisch-new-football-coach</link>
+      <description>The University of Arizona has hired Patriots QB coach Jedd Fisch as its new head football coach, replacing the recently fired Kevin Sumlin.</description>
+      <pubDate>Wed, 23 Dec 2020 18:42:49 GMT</pubDate>
+      <guid isPermaLink="false">30588254</guid>
+      <dc:date>2020-12-23T18:42:49Z</dc:date>
     </item>
     <item>
-      <title>Shaquille Harrison brings toughness and a defensive mindset to the Utah Jazz</title>
-      <link>https://www.nba.com/jazz/news/shaquille-harrison-brings-toughness-and-defensive-mindset-utah-jazz</link>
-      <description>Shaquille Harrison didn’t need to make a good first impression with his new teammate.</description>
-      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
-      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/_a6i9291.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="13332" type="image/jpeg" />
-      <pubDate>Fri, 11 Dec 2020 22:14:39 GMT</pubDate>
-      <guid isPermaLink="false">32077</guid>
-      <dc:creator>Aaron Falk</dc:creator>
-      <dc:date>2020-12-11T22:14:39Z</dc:date>
+      <title>Florida LB Houston disses OU before bowl game</title>
+      <link>https://www.espn.com/college-football/story/_/id/30588255/florida-gators-lb-james-houston-disses-oklahoma-bowl-game</link>
+      <description>Florida linebacker James Houston IV said he doesn't think Oklahoma is in the same league as the Gators.</description>
+      <pubDate>Wed, 23 Dec 2020 18:42:50 GMT</pubDate>
+      <guid isPermaLink="false">30588255</guid>
+      <dc:date>2020-12-23T18:42:50Z</dc:date>
     </item>
     <item>
-      <title>Roundball Roundup: Kyle Goon remembering Donovan Mitchell’s rookie season</title>
-      <link>https://www.nba.com/jazz/news/roundball-roundup-kyle-goon-remembering-donovan-mitchells-rookie-season</link>
-      <description>Check any NBA preview. The Los Angeles Lakers are at the top, then everyone else.</description>
-      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
-      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/goon-rr-thumb1.jpg?cw=100&amp;ch=100&amp;w=183&amp;h=100&amp;x=42&amp;y=0" length="21048" type="image/jpeg" />
-      <pubDate>Fri, 11 Dec 2020 14:42:22 GMT</pubDate>
-      <guid isPermaLink="false">32075</guid>
-      <dc:creator>JP Chunga</dc:creator>
-      <dc:date>2020-12-11T14:42:22Z</dc:date>
+      <title>Terry Bowden named Louisiana-Monroe coach</title>
+      <link>https://www.espn.com/college-football/story/_/id/30588138/sources-terry-bowden-louisiana-monroe-coach</link>
+      <description>Louisiana-Monroe hired former Auburn coach Terry Bowden as its next head coach.</description>
+      <pubDate>Wed, 23 Dec 2020 18:42:49 GMT</pubDate>
+      <guid isPermaLink="false">30588138</guid>
+      <dc:date>2020-12-23T18:42:49Z</dc:date>
+    </item>
+    <item>
+      <title>Ole Gunnar Solskjaer on Man United's trophy chase, Paul Pogba's future, more</title>
+      <link>https://www.espn.com/soccer/manchester-united/story/4272005/solskjaer-exclusive-man-united-manager-on-their-trophy-chasepogbas-futuremore</link>
+      <description>Ole Gunnar Solskjaer just celebrated two years in the Man United manager's chair and his team is in fine form. He talks to ESPN about what's next.</description>
+      <pubDate>Wed, 23 Dec 2020 19:22:05 GMT</pubDate>
+      <guid isPermaLink="false">30589140</guid>
+      <dc:date>2020-12-23T19:22:05Z</dc:date>
+    </item>
+    <item>
+      <title>The grand athlete autograph experiment: Do our favorite stars still respond to fan mail?</title>
+      <link>https://www.espn.com/nba/story/_/id/30573261/what-happens-14-year-old-superfan-writes-favorite-nba-wnba-stars-bubble</link>
+      <description>What are the chances that an autograph request in July actually got to an NBA or WNBA star in the bubble? Probably only slightly better than getting a response, right? Wrong, as one 14-year-old superfan recently found out.</description>
+      <pubDate>Wed, 23 Dec 2020 12:15:32 GMT</pubDate>
+      <guid isPermaLink="false">30573261</guid>
+      <dc:date>2020-12-23T12:15:32Z</dc:date>
+    </item>
+    <item>
+      <title>NBA power rankings and breakout candidates for all 30 teams</title>
+      <link>https://www.espn.com/nba/story/_/id/30564545/nba-season-preview-new-rankings-projections-2020-21-opening-night</link>
+      <description>The league is officially back, outside the bubble. Here's everything to know ahead of a season unlike any other.</description>
+      <pubDate>Wed, 23 Dec 2020 18:43:18 GMT</pubDate>
+      <guid isPermaLink="false">30564545</guid>
+      <dc:date>2020-12-23T18:43:18Z</dc:date>
+    </item>
+    <item>
+      <title>Lawrence, Fields, Wilson, Lance, Jones, Trask: Meet the 2021 NFL draft QB class</title>
+      <link>https://www.espn.com/nfl/draft2021/story/_/id/30469546/meet-2021-nfl-draft-quarterbacks-stats-need-know-trevor-lawrence-justin-fields-zach-wilson-more</link>
+      <description>Trevor Lawrence, Justin Fields, Zach Wilson and Trey Lance lead the way in a deep and talented quarterback class for the ages.</description>
+      <pubDate>Wed, 23 Dec 2020 16:30:22 GMT</pubDate>
+      <guid isPermaLink="false">30469546</guid>
+      <dc:date>2020-12-23T16:30:22Z</dc:date>
+    </item>
+    <item>
+      <title>Bowl season daily: Zach Wilson leads BYU to dominant win and much more</title>
+      <link>https://www.espn.com/college-football/story/_/id/30553265/college-football-bowls-today-how-watch-schedule-analysis-see-moments</link>
+      <description>We present the best of college football bowl season, from the Myrtle Beach Bowl to the national championship.</description>
+      <pubDate>Wed, 23 Dec 2020 15:14:27 GMT</pubDate>
+      <guid isPermaLink="false">30553265</guid>
+      <dc:date>2020-12-23T15:14:27Z</dc:date>
+    </item>
+    <item>
+      <title>Will Francisco Lindor or Kris Bryant get dealt? GMs, insiders weigh in</title>
+      <link>https://www.espn.com/mlb/story/_/id/30572289/spend-big-lindor-bryant-get-dealt-gms-insiders-weigh-in</link>
+      <description>We asked around the game for answers on big free agents and next season's pressing questions.</description>
+      <pubDate>Wed, 23 Dec 2020 12:55:07 GMT</pubDate>
+      <guid isPermaLink="false">30572289</guid>
+      <dc:date>2020-12-23T12:55:07Z</dc:date>
+    </item>
+    <item>
+      <title>Fantasy football rankings: Week 16</title>
+      <link>https://www.espn.com/fantasy/football/story/_/id/29838017/fantasy-football-rankings-nfl-week-16</link>
+      <description>Our experts provide individual and composite rankings for each position in PPR and non-PPR formats.</description>
+      <pubDate>Wed, 23 Dec 2020 17:55:05 GMT</pubDate>
+      <guid isPermaLink="false">29838017</guid>
+      <dc:date>2020-12-23T17:55:05Z</dc:date>
+    </item>
+    <item>
+      <title>NBA rookies couldn't prepare for this</title>
+      <link>https://www.espn.com/nba/story/_/id/30584950/nba-season-preview-anthony-edwards-rookie-class-getting-thrown-fire</link>
+      <description>For rookies who haven't played meaningful games in up to 10 months, the start of the season is a crash course in NBA basketball.</description>
+      <pubDate>Wed, 23 Dec 2020 14:29:14 GMT</pubDate>
+      <guid isPermaLink="false">30584950</guid>
+      <dc:date>2020-12-23T14:29:14Z</dc:date>
+    </item>
+    <item>
+      <title>Lakers' 16-carat rings pay tribute to Kobe, 'unity'</title>
+      <link>https://www.espn.com/nba/story/_/id/30585655/los-angeles-lakers-championship-rings-pay-tribute-kobe-bryant-social-justice-movement</link>
+      <description>Jason Arasheben, who waited 10 years for a chance to design another Lakers championship ring, incorporated different elements to represent all the moments that stood out in what was "a season unlike any other in history."</description>
+      <pubDate>Wed, 23 Dec 2020 18:31:53 GMT</pubDate>
+      <guid isPermaLink="false">30585655</guid>
+      <dc:date>2020-12-23T18:31:53Z</dc:date>
+    </item>
+    <item>
+      <title>Cotton Bowl preview: Can Kyle Trask lead Florida past Oklahoma's defense?</title>
+      <link>https://www.espn.com/college-football/story/_/id/30583975/cotton-bowl-preview-key-players-matchups-oklahoma-florida</link>
+      <description>Breaking down everything we're expecting in this year's Cotton Bowl between the Sooners and Gators.</description>
+      <pubDate>Wed, 23 Dec 2020 17:22:46 GMT</pubDate>
+      <guid isPermaLink="false">30583975</guid>
+      <dc:date>2020-12-23T17:22:46Z</dc:date>
+    </item>
+    <item>
+      <title>Orange Bowl preview: Can Isaiah Spiller and Texas A&amp;M outpace UNC's defense?</title>
+      <link>https://www.espn.com/college-football/story/_/id/30584571/orange-bowl-preview-key-players-matchups-texas-north-carolina</link>
+      <description>Breaking down everything to watch in the Orange Bowl between the Aggies and Tar Heels.</description>
+      <pubDate>Wed, 23 Dec 2020 17:22:46 GMT</pubDate>
+      <guid isPermaLink="false">30584571</guid>
+      <dc:date>2020-12-23T17:22:46Z</dc:date>
+    </item>
+    <item>
+      <title>MMA divisional rankings: A change at No. 1 and several new arrivals highlight latest movement</title>
+      <link>https://www.espn.com/mma/story/_/id/21807736/jorge-masvidal-douglas-lima-shake-welterweight-rankings</link>
+      <description>UFC men's flyweight champion Deiveson Figueiredo leapfrogged a legend to take over at 125 pounds in the biggest change in the ESPN divisional rankings.</description>
+      <pubDate>Wed, 23 Dec 2020 16:49:27 GMT</pubDate>
+      <guid isPermaLink="false">21807736</guid>
+      <dc:date>2020-12-23T16:49:27Z</dc:date>
+    </item>
+    <item>
+      <title>Pound-for-pound rankings: Did Canelo Alvarez jump Terence Crawford after latest win?</title>
+      <link>https://www.espn.com/boxing/story/_/id/30577103/boxing-pound-pound-list-did-canelo-alvarez-jump-terence-crawford-latest-win</link>
+      <description>Canelo Alvarez topped Callum Smith with ease, but did he encourage the pound-for-pound panel to elevate him over Terence Crawford?</description>
+      <pubDate>Wed, 23 Dec 2020 19:15:42 GMT</pubDate>
+      <guid isPermaLink="false">30577103</guid>
+      <dc:date>2020-12-23T19:15:42Z</dc:date>
+    </item>
+    <item>
+      <title>LeBron James, Michael Jordan among athletes getting into business of big booze</title>
+      <link>https://www.espn.com/espn/story/_/id/30582691/lebron-james-michael-jordan-athletes-getting-business-big-booze</link>
+      <description>Among the last-minute gifts out there could be tequila, whiskey or gin from your favorite athlete. As is the case for George Clooney and other Hollywood stars, booze is now part of athletes' business plans.</description>
+      <pubDate>Wed, 23 Dec 2020 15:25:14 GMT</pubDate>
+      <guid isPermaLink="false">30582691</guid>
+      <dc:date>2020-12-23T15:25:14Z</dc:date>
+    </item>
+    <item>
+      <title>Forrest Lamp's lamp and other unusual athlete endorsements</title>
+      <link>https://www.espn.com/nfl/story/_/id/30582105/forrest-lamp-other-unusual-athlete-endorsements</link>
+      <description>Chargers lineman Forrest Lamp has his very own lamp now, appropriately called the Forrest Sequoia lamp.</description>
+      <pubDate>Wed, 23 Dec 2020 15:25:14 GMT</pubDate>
+      <guid isPermaLink="false">30582105</guid>
+      <dc:date>2020-12-23T15:25:14Z</dc:date>
+    </item>
+    <item>
+      <title>Draft kit: Rankings, mock drafts, sleepers, projections and analysis</title>
+      <link>https://www.espn.com/fantasy/basketball/story/_/id/30309237/fantasy-basketball-draft-kit-rankings-mock-drafts-sleepers-projections-analysis</link>
+      <description>We've got everything you need to dominate fantasy basketball from every angle.</description>
+      <pubDate>Wed, 23 Dec 2020 14:57:44 GMT</pubDate>
+      <guid isPermaLink="false">30309237</guid>
+      <dc:date>2020-12-23T14:57:44Z</dc:date>
+    </item>
+    <item>
+      <title>Source: Seattle's Josh Gordon has setback in recovery</title>
+      <link>https://www.espn.com/nfl/story/_/id/30585744/josh-gordon-return-field-seattle-seahawks-limbo-league-finds-wr-did-not-satisfy-reinstatement-terms-source-says</link>
+      <description>Seahawks receiver Josh Gordon has experienced another setback in his recovery from substance abuse, a source confirmed to ESPN's Jeremy Fowler, and is grappling with the reality that he might never be allowed to play again.</description>
+      <pubDate>Wed, 23 Dec 2020 16:24:04 GMT</pubDate>
+      <guid isPermaLink="false">30585744</guid>
+      <dc:date>2020-12-23T16:24:04Z</dc:date>
+    </item>
+    <item>
+      <title>Auburn names Boise State's Harsin as new coach</title>
+      <link>https://www.espn.com/college-football/story/_/id/30584705/auburn-set-hire-boise-state-bryan-harsin-next-head-football-coach-source-says</link>
+      <description>Bryan Harsin replaces Gus Malzahn, who was fired earlier this month after eight seasons at Auburn.</description>
+      <pubDate>Wed, 23 Dec 2020 16:24:04 GMT</pubDate>
+      <guid isPermaLink="false">30584705</guid>
+      <dc:date>2020-12-23T16:24:04Z</dc:date>
+    </item>
+    <item>
+      <title>Florida's Johnson being released from hospital</title>
+      <link>https://www.espn.com/mens-college-basketball/story/_/id/30582502/florida-gators-keyontae-johnson-being-released-hospital</link>
+      <description>Less than two weeks after he collapsed on the court during a game against Florida State.</description>
+      <pubDate>Wed, 23 Dec 2020 16:24:04 GMT</pubDate>
+      <guid isPermaLink="false">30582502</guid>
+      <dc:date>2020-12-23T16:24:04Z</dc:date>
+    </item>
+    <item>
+      <title>Transfer window principles: Seven things to remember in January</title>
+      <link>https://www.espn.com/soccer/blog-marcottis-musings/story/4271820/transfer-window-principles-seven-things-to-remember-in-january</link>
+      <description>The transfer window is often hard to understand, but Gab Marcotti has 7 things to remember when looking at contracts, offers and completed deals.</description>
+      <pubDate>Wed, 23 Dec 2020 18:21:04 GMT</pubDate>
+      <guid isPermaLink="false">4271820</guid>
+      <dc:date>2020-12-23T18:21:04Z</dc:date>
+    </item>
+    <item>
+      <title>Arsenal need a Bruno Fernandes signing in January, but who could it be?</title>
+      <link>https://www.espn.com/soccer/soccer-transfers/story/4272529/arsenal-need-a-bruno-fernandes-signing-in-januarybut-who-could-it-be</link>
+      <description>Arsenal are 15th in the Premier League and need creativity in midfield. Man United got Bruno Fernandes last January, but what can the Gunners do?</description>
+      <pubDate>Wed, 23 Dec 2020 13:39:16 GMT</pubDate>
+      <guid isPermaLink="false">4272529</guid>
+      <dc:date>2020-12-23T13:39:16Z</dc:date>
+    </item>
+    <item>
+      <title>How 2020 changed Lewis Hamilton</title>
+      <link>https://www.espn.com/f1/story/_/id/30587297/how-2020-changed-lewis-hamilton</link>
+      <description>Lewis Hamilton had a record-breaking 2020 F1 season, but his achievements away from the racetrack were the stuff legacies are built on. Laurence Edmondson spoke to the seven-time world champion on his remarkable year.</description>
+      <pubDate>Wed, 23 Dec 2020 17:06:24 GMT</pubDate>
+      <guid isPermaLink="false">30587297</guid>
+      <dc:date>2020-12-23T17:06:24Z</dc:date>
     </item>
   </channel>
 </rss>

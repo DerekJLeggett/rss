@@ -25,7 +25,7 @@ public class RssApplication {
                 SyndFeed feed = new SyndFeedImpl();
                 feed.setFeedType("rss_2.0");
 
-                feed.setTitle("Aggregated " + StringUtils.capitalize(args[0]) + "Feed");
+                feed.setTitle("Aggregated " + StringUtils.capitalize(args[0]) + " Feed");
                 feed.setDescription(feed.getTitle());
                 feed.setAuthor("Derek Leggett");
                 feed.setLink("https://www.thedorey.com/assets/rss/" + args[0] + ".xml");
