@@ -62,6 +62,5 @@ public class RssApplication {
             System.out.println("The second to last parameters are the URLs of feeds to aggregate.");
             System.out.println();
         }
-        MainFeed.buildMainFeed();
     }
 }

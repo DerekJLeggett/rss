@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+    <body>
+        <outline title="Subscriptions" text="Subscriptions">
+            <outline xmlUrl="https://thedorey.com/assets/rss/entertainment.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/news.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/education.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/science.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/technology.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/pbs.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/sports.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/boxing.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/college_basketball.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/celebrity.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/photos.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/baseball.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/music.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/music_videos.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/movies.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/PC_video_games.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/podcasts.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/audiobooks.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/books.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/television.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/automotive.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/medical.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/library.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/fashion.xml"/>
+            <outline xmlUrl="https://thedorey.com/assets/rss/lifestyle.xml"/>
+        </outline>
+    </body>
+</opml>
