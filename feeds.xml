@@ -1,32 +1,32 @@
 <?xml version="1.0"?>
 <opml version="2.0">
     <body>
-        <outline title="Subscriptions" text="Subscriptions">
-            <outline xmlUrl="https://thedorey.com/assets/rss/entertainment.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/news.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/education.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/science.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/technology.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/pbs.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/sports.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/boxing.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/college_basketball.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/celebrity.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/photos.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/baseball.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/music.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/music_videos.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/movies.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/PC_video_games.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/podcasts.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/audiobooks.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/books.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/television.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/automotive.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/medical.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/library.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/fashion.xml"/>
-            <outline xmlUrl="https://thedorey.com/assets/rss/lifestyle.xml"/>
+        <outline title="TheDorey.com" text="TheDorey.com">
+            <outline text="Entertainment" xmlUrl="https://thedorey.com/assets/rss/entertainment.xml"/>
+            <outline text="News" xmlUrl="https://thedorey.com/assets/rss/news.xml"/>
+            <outline text="Education" xmlUrl="https://thedorey.com/assets/rss/education.xml"/>
+            <outline text="Science" xmlUrl="https://thedorey.com/assets/rss/science.xml"/>
+            <outline text="Technology" xmlUrl="https://thedorey.com/assets/rss/technology.xml"/>
+            <outline text="PBS" xmlUrl="https://thedorey.com/assets/rss/pbs.xml"/>
+            <outline text="Sports" xmlUrl="https://thedorey.com/assets/rss/sports.xml"/>
+            <outline text="Boxing" xmlUrl="https://thedorey.com/assets/rss/boxing.xml"/>
+            <outline text="College Basketball" xmlUrl="https://thedorey.com/assets/rss/college_basketball.xml"/>
+            <outline text="Celebrity" xmlUrl="https://thedorey.com/assets/rss/celebrity.xml"/>
+            <outline text="Photos" xmlUrl="https://thedorey.com/assets/rss/photos.xml"/>
+            <outline text="Baseball" xmlUrl="https://thedorey.com/assets/rss/baseball.xml"/>
+            <outline text="Music" xmlUrl="https://thedorey.com/assets/rss/music.xml"/>
+            <outline text="Music Videos" xmlUrl="https://thedorey.com/assets/rss/music_videos.xml"/>
+            <outline text="Movies" xmlUrl="https://thedorey.com/assets/rss/movies.xml"/>
+            <outline text="PC Video Games" xmlUrl="https://thedorey.com/assets/rss/PC_video_games.xml"/>
+            <outline text="Podcasts" xmlUrl="https://thedorey.com/assets/rss/podcasts.xml"/>
+            <outline text="Audiobooks" xmlUrl="https://thedorey.com/assets/rss/audiobooks.xml"/>
+            <outline text="Books" xmlUrl="https://thedorey.com/assets/rss/books.xml"/>
+            <outline text="Television" xmlUrl="https://thedorey.com/assets/rss/television.xml"/>
+            <outline text="Automotive" xmlUrl="https://thedorey.com/assets/rss/automotive.xml"/>
+            <outline text="Medical" xmlUrl="https://thedorey.com/assets/rss/medical.xml"/>
+            <outline text="Library" xmlUrl="https://thedorey.com/assets/rss/library.xml"/>
+            <outline text="Fashion" xmlUrl="https://thedorey.com/assets/rss/fashion.xml"/>
+            <outline text="Lifestyle" xmlUrl="https://thedorey.com/assets/rss/lifestyle.xml"/>
         </outline>
     </body>
 </opml>
