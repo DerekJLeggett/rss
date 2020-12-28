@@ -45,12 +45,6 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<configuration>
-					<profiles>
-						<profile>profile1</profile>
-						<profile>profile2</profile>
-					</profiles>
-				</configuration>
 			</plugin>
 		</plugins>
 	</build>

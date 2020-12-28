@@ -40,7 +40,7 @@ public class MainFeed {
                 FilenameFilter filter = new FilenameFilter() {
                     @Override
                     public boolean accept(File f, String name) {
-                        return name.endsWith(".xml");
+                        return name.endsWith(".xml") && !name.startsWith("pom") && !name.startsWith("rss");
                     }
                 };
                 String[] feedFiles;
