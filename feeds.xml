@@ -27,6 +27,7 @@
             <outline text="Library" xmlUrl="https://thedorey.com/assets/rss/library.xml"/>
             <outline text="Fashion" xmlUrl="https://thedorey.com/assets/rss/fashion.xml"/>
             <outline text="Lifestyle" xmlUrl="https://thedorey.com/assets/rss/lifestyle.xml"/>
+            <outline text="National Parks" xmlUrl="https://thedorey.com/assets/rss/national_parks.xml"/>
         </outline>
     </body>
 </opml>

@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Aggregated Sports Feed</title>
+    <link>https://www.thedorey.com/assets/rss/sports.xml</link>
+    <description>Aggregated Sports Feed</description>
+    <dc:creator>Derek Leggett</dc:creator>
+    <item>
+      <title>NFL Week 16: What We Learned</title>
+      <link>https://www.nytimes.com/2020/12/27/sports/football/scores-results-nfl-week-16.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/27/sports/football/scores-results-nfl-week-16.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/28/sports/27nfl-wwl1-print/27nfl-wwl1-print-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Don Wright/Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Diontae Johnson began the Steelers&amp;rsquo; comeback against the Colts with a diving catch for a 39-yard touchdown. Ben Roethlisberger added two more scoring passes in the fourth quarter to help Pittsburgh secure a 28-24 win.</media:description>
+      <description>The Steelers came back to beat the Colts, Kansas City survived against Atlanta and Jacksonville secured the No. 1 pick in the draft.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pittsburgh Steelers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indianapolis Colts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roethlisberger, Ben</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kansas City Chiefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlanta Falcons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mahomes, Patrick (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baltimore Ravens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Giants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Lamar (1997- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jacksonville Jaguars</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lawrence, Trevor (1999- )</category>
+      <pubDate>Mon, 28 Dec 2020 04:39:03 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/27/sports/football/scores-results-nfl-week-16.html</guid>
+      <dc:creator>Benjamin Hoffman</dc:creator>
+      <dc:date>2020-12-28T04:39:03Z</dc:date>
+    </item>
+    <item>
+      <title>Seahawks Defense Is an Asset Again in Division-Clinching Win</title>
+      <link>https://www.nytimes.com/2020/12/27/sports/football/seahawks-rams-score-nfc-west-standings.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/27/sports/football/seahawks-rams-score-nfc-west-standings.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/sports/27nfl-nfcwest-1/27nfl-nfcwest-1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Abbie Parr/Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Seahawks safety Jamal Adams chased down Rams running back Darrell Henderson to save a touchdown in the third quarter of Seattle’s win on Sunday to clinch the N.F.C. West division.</media:description>
+      <description>Seattle’s much-maligned defense held Los Angeles to field goals as the two N.F.C. West teams streak in opposite directions to end the regular season.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Seattle Seahawks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Rams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Jamal (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goff, Jared T (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McVay, Sean (1986- )</category>
+      <pubDate>Mon, 28 Dec 2020 04:08:55 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/27/sports/football/seahawks-rams-score-nfc-west-standings.html</guid>
+      <dc:creator>Ben Shpigel</dc:creator>
+      <dc:date>2020-12-28T04:08:55Z</dc:date>
+    </item>
+    <item>
+      <title>Ravens Snatch Back Giants’ Playoff Hopes</title>
+      <link>https://www.nytimes.com/2020/12/27/sports/football/ravens-giants-score-playoff-standings.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/27/sports/football/ravens-giants-score-playoff-standings.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/sports/27giants-1/merlin_181705041_2dcc246e-bb96-4056-9778-0a18b74b6ecf-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Patrick Smith/Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Giants receiver Sterling Shepard was tackled by his jersey Sunday as the Ravens frustrated the team’s offense. </media:description>
+      <description>Baltimore made its case for the wild-card spot as the Giants fell back to earth — and toward the bottom of the N.F.C. East — in a rout.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Giants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baltimore Ravens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Edwards, Gus (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Lamar (1997- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Daniel (1997- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shepard, Sterling (1994- )</category>
+      <pubDate>Mon, 28 Dec 2020 00:43:18 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/27/sports/football/ravens-giants-score-playoff-standings.html</guid>
+      <dc:creator>Bill Pennington</dc:creator>
+      <dc:date>2020-12-28T00:43:18Z</dc:date>
+    </item>
+    <item>
+      <title>With Each Run, a City Shaken by Racism Is ‘Finding the Greater Good’</title>
+      <link>https://www.nytimes.com/2020/12/27/sports/charlottesville-running-club.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/27/sports/charlottesville-running-club.html" rel="standout" />
+      <description>The route William Jones III designed 15 years ago through predominantly Black neighborhoods in Charlottesville, Va., has become the impetus for a diverse running group that’s grown since the summer.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Charlottesville (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <pubDate>Sun, 27 Dec 2020 19:14:55 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/27/sports/charlottesville-running-club.html</guid>
+      <dc:creator>Anna Katherine Clemmons</dc:creator>
+      <dc:date>2020-12-27T19:14:55Z</dc:date>
+    </item>
+    <item>
+      <title>Phil Niekro, Hall of Fame Knuckleball Pitcher, Dies at 81</title>
+      <link>https://www.nytimes.com/2020/12/27/obituaries/phil-niekro-hall-of-fame-knuckleball-pitcher-dies-at-81.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/27/obituaries/phil-niekro-hall-of-fame-knuckleball-pitcher-dies-at-81.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/multimedia/00niekro1/00niekro1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Vic DeLucia/The New York Times</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Phil Niekro in 1987, pitching for the Yankees at age 45. He was known for his knuckleball, and had a career record of 318-274.</media:description>
+      <description>A five-time all-star, he played in the major leagues for 24 seasons, but never made it to the World Series.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlanta Braves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Niekro, Phil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+      <pubDate>Mon, 28 Dec 2020 01:36:46 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/27/obituaries/phil-niekro-hall-of-fame-knuckleball-pitcher-dies-at-81.html</guid>
+      <dc:creator>Richard Goldstein</dc:creator>
+      <dc:date>2020-12-28T01:36:46Z</dc:date>
+    </item>
+    <item>
+      <title>Opting Out of the N.F.L. Brings No Regret for This Jets Lineman</title>
+      <link>https://www.nytimes.com/2020/12/27/sports/football/Leo-Koloamatangi-jets-opt-out-nfl.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/27/sports/football/Leo-Koloamatangi-jets-opt-out-nfl.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/sports/00lookback-optout1/00lookback-optout1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Christian Monterrosa for The New York Times</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Leo Koloamatangi at his dining room table in Fontana, Calif., this summer.</media:description>
+      <description>Leo Koloamatangi says he misses his team, even in a dreadful season, and that he has wondered what he might have accomplished this year. But he finds comfort in knowing his family is at a lower risk.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Jets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koloamatangi, Leo</category>
+      <pubDate>Sun, 27 Dec 2020 06:00:06 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/27/sports/football/Leo-Koloamatangi-jets-opt-out-nfl.html</guid>
+      <dc:creator>Ben Shpigel</dc:creator>
+      <dc:date>2020-12-27T06:00:06Z</dc:date>
+    </item>
+    <item>
+      <title>The Warriors’ Championship Glow Is Gone. And Yet …</title>
+      <link>https://www.nytimes.com/2020/12/25/sports/basketball/warriors-bucks-christmas.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/25/sports/basketball/warriors-bucks-christmas.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/multimedia/25spt-NBA-warriors-alt/merlin_181655640_38668309-7992-4d2c-a765-b955c82d1490-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Gary Dineen/NBAE, via Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">&amp;ldquo;We would love to have played better over these last two games,&amp;rdquo; Golden State Warriors guard Stephen Curry said, &amp;ldquo;but that&amp;rsquo;s not going to define our season.&amp;rdquo;</media:description>
+      <description>Yes, the Golden State Warriors have looked awful in two blowout losses to start the season. But there are a few reasons for optimism. One big one: James Wiseman.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Golden State Warriors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wiseman, James (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Curry, Stephen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerr, Steve</category>
+      <pubDate>Sat, 26 Dec 2020 03:06:04 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/25/sports/basketball/warriors-bucks-christmas.html</guid>
+      <dc:creator>Scott Cacciola</dc:creator>
+      <dc:date>2020-12-26T03:06:04Z</dc:date>
+    </item>
+    <item>
+      <title>Jets Start a Winning Streak and Diminish Browns’ Playoff Hopes</title>
+      <link>https://www.nytimes.com/2020/12/27/sports/jets-browns-nfl-week-16.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/27/sports/jets-browns-nfl-week-16.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/sports/27jets-web-1/27jets-web-1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Vincent Carchietta/USA Today Sports, via Reuters</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The Jets’ Tarell Basham, left, forcing Baker Mayfield to fumble during the second half. Mayfield lost two fumbles, and fumbled three times over all.</media:description>
+      <description>The Jets’ second win of the season removed the possibility of them getting the No. 1 pick in next year’s draft, while Cleveland is at risk of extending the league’s longest postseason drought.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Jets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Browns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mayfield, Baker (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darnold, Sam (1997- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crowder, Jamison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <pubDate>Sun, 27 Dec 2020 22:40:49 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/27/sports/jets-browns-nfl-week-16.html</guid>
+      <dc:creator>The Associated Press</dc:creator>
+      <dc:date>2020-12-27T22:40:49Z</dc:date>
+    </item>
+    <item>
+      <title>Duke Women's Basketball Season is Cancelled After Four Games</title>
+      <link>https://www.nytimes.com/2020/12/25/sports/ncaabasketball/duke-womens-basketball-cancelled.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/25/sports/ncaabasketball/duke-womens-basketball-cancelled.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/25/sports/25duke-wbb/merlin_180088410_09d744a5-b24d-4272-b390-13d3072617f3-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Michael Dwyer/Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The Blue Devils’ first-year coach, Kara Lawson, said this month that she did not think the team should be playing during the pandemic.</media:description>
+      <description>The team is the first Power Five basketball team to start and stop its season because of the pandemic. The men’s basketball team is expected to continue playing.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">College Athletics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Duke University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Collegiate Athletic Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <pubDate>Fri, 25 Dec 2020 23:26:26 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/25/sports/ncaabasketball/duke-womens-basketball-cancelled.html</guid>
+      <dc:creator>Gillian R. Brassil</dc:creator>
+      <dc:date>2020-12-25T23:26:26Z</dc:date>
+    </item>
+    <item>
+      <title>K.C. Jones, Celtics Standout as Player and Coach, Dies at 88</title>
+      <link>https://www.nytimes.com/2020/12/25/sports/kc-jones-dead.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/25/sports/kc-jones-dead.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/26/obituaries/26Jones-obit4/25Jones4-moth-v2.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Bettmann/Getty Images</media:credit>
+      <description>As a defense-minded guard, he played on eight consecutive championship teams. He later found success leading the team from the sidelines.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, K C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">NBA Championship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boston Celtics</category>
+      <pubDate>Fri, 25 Dec 2020 23:45:31 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/25/sports/kc-jones-dead.html</guid>
+      <dc:creator>Richard Goldstein</dc:creator>
+      <dc:date>2020-12-25T23:45:31Z</dc:date>
+    </item>
+    <item>
+      <title>At French Resorts, Skiing Has Become an Uphill Sport</title>
+      <link>https://www.nytimes.com/2020/12/25/sports/skiing/chamonix-france.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/25/sports/skiing/chamonix-france.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/25/sports/25skiing-france1/25skiing-france1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Pete Kiehart for The New York Times</media:credit>
+      <description>The government closed ski lifts, fearing they might spread the coronavirus. The skiers came anyway.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skiing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alpine Skiing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chamonix-Mont-Blanc (France)</category>
+      <pubDate>Fri, 25 Dec 2020 10:00:17 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/25/sports/skiing/chamonix-france.html</guid>
+      <dc:creator>Pete Kiehart</dc:creator>
+      <dc:date>2020-12-25T10:00:17Z</dc:date>
+    </item>
+    <item>
+      <title>Petr Cech Is Still Saving Chelsea, This Time in New Role</title>
+      <link>https://www.nytimes.com/2020/12/24/sports/soccer/petr-cech-chelsea.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/24/sports/soccer/petr-cech-chelsea.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/26/sports/24soccer-cech-print/24soccer-cech1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">John Sibley/Action Images, via Reuters</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Petr Cech’s role as technical director at Chelsea calls on every bit of what he learned in the game.</media:description>
+      <description>For the recently retired goalkeeper, a role as Chelsea’s technical director is appealing because of how different it is from playing.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chelsea (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lampard, Frank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Werner, Timo (1996- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Havertz, Kai (1999- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cech, Petr</category>
+      <pubDate>Thu, 24 Dec 2020 08:00:06 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/24/sports/soccer/petr-cech-chelsea.html</guid>
+      <dc:creator>Rory Smith</dc:creator>
+      <dc:date>2020-12-24T08:00:06Z</dc:date>
+    </item>
+    <item>
+      <title>Jon Huber, Who Rose to Fame With World Wrestling Entertainment, Dies at 41</title>
+      <link>https://www.nytimes.com/2020/12/27/sports/-brodie-lee-death-luke-harper-jon-huber.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/27/sports/-brodie-lee-death-luke-harper-jon-huber.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2021/01/25/multimedia/25xp-huber/25xp-huber-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Roy Rochlin/Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Jon Huber, who was also known as Luke Harper, was known for his soft-spoken intensity in the ring.</media:description>
+      <description>Mr. Huber, who was known in the ring as Brodie Lee and Luke Harper, died from a “lung issue” unrelated to Covid-19, his wife said.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wrestling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Wrestling Entertainment Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jon Huber</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brodie Lee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luke Harper</category>
+      <pubDate>Sun, 27 Dec 2020 19:29:28 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/27/sports/-brodie-lee-death-luke-harper-jon-huber.html</guid>
+      <dc:creator>Marie Fazio</dc:creator>
+      <dc:date>2020-12-27T19:29:28Z</dc:date>
+    </item>
+    <item>
+      <title>Alvin Kamara Runs for Six Touchdowns Against Vikings</title>
+      <link>https://www.nytimes.com/2020/12/25/sports/football/alvin-kamara-runs-for-six-touchdowns-against-vikings.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/25/sports/football/alvin-kamara-runs-for-six-touchdowns-against-vikings.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/25/sports/25nfl-saints-web-2/25nfl-saints-web-2-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Butch Dill/Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Alvin Kamara rushed for a career-high 155 yards.</media:description>
+      <description>The Saints running back tied an N.F.L. record set in 1929 in New Orleans’ 52-33 win over the Minnesota Vikings.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Orleans Saints</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Minnesota Vikings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kamara, Alvin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brees, Drew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zimmer, Mike (1956- )</category>
+      <pubDate>Sat, 26 Dec 2020 03:50:20 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/25/sports/football/alvin-kamara-runs-for-six-touchdowns-against-vikings.html</guid>
+      <dc:creator>The Associated Press</dc:creator>
+      <dc:date>2020-12-26T03:50:20Z</dc:date>
+    </item>
+    <item>
+      <title>‘Stay Alive and Survive’: Ski Resorts Brace for a Pandemic Season</title>
+      <link>https://www.nytimes.com/2020/12/25/business/stay-alive-and-survive-ski-resorts-brace-for-a-pandemic-season.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/25/business/stay-alive-and-survive-ski-resorts-brace-for-a-pandemic-season.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/17/business/17virus-ski1/17virus-ski1-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Cayce Clifford for The New York Times</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Squaw Valley Ski Resort near Lake Tahoe has limited ticket sales to 50 percent of the norm.</media:description>
+      <description>Many have put capacity restrictions in place, even as new lockdowns may spook visitors.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alpine Skiing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Squaw Valley Ski Resort</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <pubDate>Sat, 26 Dec 2020 19:11:14 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/25/business/stay-alive-and-survive-ski-resorts-brace-for-a-pandemic-season.html</guid>
+      <dc:creator>Kellen Browning</dc:creator>
+      <dc:date>2020-12-26T19:11:14Z</dc:date>
+    </item>
+    <item>
+      <title>An N.B.A. Christmas Gift: LeBron, Steph and Luka in Action</title>
+      <link>https://www.nytimes.com/2020/12/25/sports/basketball/nba-christmas-schedule.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/25/sports/basketball/nba-christmas-schedule.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/24/sports/24nba-christmas/24nba-christmas-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Marcio Jose Sanchez/Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">The Los Angeles Lakers will host the Mavericks in the Christmas Day prime time spot.</media:description>
+      <description>With LeBron James, Stephen Curry and Luka Doncic playing, there’s something for everyone. If you haven’t kept up since last season, here’s everything you need to know.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boston Celtics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dallas Mavericks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brooklyn Nets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Denver Nuggets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Golden State Warriors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Clippers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Lakers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miami Heat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Orleans Pelicans (Basketball)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Milwaukee Bucks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <pubDate>Fri, 25 Dec 2020 08:00:10 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/25/sports/basketball/nba-christmas-schedule.html</guid>
+      <dc:creator>Sopan Deb, Scott Cacciola and Marc Stein</dc:creator>
+      <dc:date>2020-12-25T08:00:10Z</dc:date>
+    </item>
+    <item>
+      <title>Jeannie Morris, Trailblazing Chicago Sportscaster, Dies at 85</title>
+      <link>https://www.nytimes.com/2020/12/24/business/jeannie-morris-dead.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/24/business/jeannie-morris-dead.html" rel="standout" />
+      <description>She was a rare woman in broadcast sports journalism when she began her career in the late 1960s, but she helped pave the way for the many women who followed.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morris, Jeannie (1935-2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <pubDate>Fri, 25 Dec 2020 16:55:55 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/24/business/jeannie-morris-dead.html</guid>
+      <dc:creator>Richard Sandomir</dc:creator>
+      <dc:date>2020-12-25T16:55:55Z</dc:date>
+    </item>
+    <item>
+      <title>Aliphine Tuliamuk Won the Olympic Trials Marathon. Now She's Training Through Pregnancy.</title>
+      <link>https://www.nytimes.com/2020/12/24/sports/Aliphine-Tuliamuk-Pregnancy-Tokyo-Olympics.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/24/sports/Aliphine-Tuliamuk-Pregnancy-Tokyo-Olympics.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/07/sports/07pregnant-marathoner/07pregnant-marathoner-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Kevin C. Cox/Getty Images</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Aliphine Tuliamuk posed after winning the women's U.S. Olympic marathon team trials in February.</media:description>
+      <description>When competitive running events for 2020 largely disappeared, Aliphine Tuliamuk and her partner saw the opportunity to have a child before the next Olympics.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tuliamuk, Aliphine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
+      <pubDate>Fri, 25 Dec 2020 02:24:02 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/24/sports/Aliphine-Tuliamuk-Pregnancy-Tokyo-Olympics.html</guid>
+      <dc:creator>Matthew Futterman</dc:creator>
+      <dc:date>2020-12-25T02:24:02Z</dc:date>
+    </item>
+    <item>
+      <title>She’s a Chess Champion Who Can Barely See the Board</title>
+      <link>https://www.nytimes.com/2020/12/24/well/live/jessica-lauser-chess-blind-champion.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/24/well/live/jessica-lauser-chess-blind-champion.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2021/01/20/multimedia/20Well-BlindChess/20Well-BlindChess-moth.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">Barrett Emke for The New York Times</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Jessica Lauser, a three-time U.S. Blind Chess champion, in her Kansas City, Mo., apartment.</media:description>
+      <description>Like the fictional Beth Harmon in “The Queen’s Gambit,” she’s trying to find a way to get to Russia to compete. Unlike Beth, she’s blind.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chess</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Chess Federation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Queen's Gambit (TV Program)</category>
+      <pubDate>Thu, 24 Dec 2020 16:00:09 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/24/well/live/jessica-lauser-chess-blind-champion.html</guid>
+      <dc:creator>Dana Mackenzie</dc:creator>
+      <dc:date>2020-12-24T16:00:09Z</dc:date>
+    </item>
+    <item>
+      <title>NFL Week 16 Predictions: Our Picks Against the Spread</title>
+      <link>https://www.nytimes.com/2020/12/24/sports/football/nfl-picks-week-16.html</link>
+      <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.nytimes.com/2020/12/24/sports/football/nfl-picks-week-16.html" rel="standout" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" height="151" medium="image" url="https://static01.nyt.com/images/2020/12/24/sports/24nfl-wwl-topper/24nfl-wwl-topper-moth-v2.jpg" width="151" />
+      <media:credit xmlns:media="http://search.yahoo.com/mrss/">AJ Mast/Associated Press</media:credit>
+      <media:description xmlns:media="http://search.yahoo.com/mrss/">Linebacker Darius Leonard is one of the game’s best defenders. The Colts finally surrounded him with enough talent for that to matter.</media:description>
+      <description>The Colts are favored on the road in Pittsburgh, the Rams will try to stay alive in Seattle and a frozen matchup between Tennessee and Green Bay should still have plenty of offense.</description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indianapolis Colts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pittsburgh Steelers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tennessee Titans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Bay Packers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Rams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Seattle Seahawks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kansas City Chiefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leonard, Darius (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henry, Derrick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tannehill, Ryan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodgers, Aaron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Minnesota Vikings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Orleans Saints</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miami Dolphins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Howard, Xavien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tampa Bay Buccaneers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buffalo Bills</category>
+      <pubDate>Mon, 28 Dec 2020 01:20:25 GMT</pubDate>
+      <guid isPermaLink="false">https://www.nytimes.com/2020/12/24/sports/football/nfl-picks-week-16.html</guid>
+      <dc:creator>Benjamin Hoffman</dc:creator>
+      <dc:date>2020-12-28T01:20:25Z</dc:date>
+    </item>
+    <item>
+      <title>Utah Jazz learn an early season lesson as they lose to Minnesota in home opener</title>
+      <link>https://www.nba.com/jazz/news/utah-jazz-learn-early-season-lesson-they-lose-minnesota-home-opener</link>
+      <description>The Utah Jazz took their first L.
+Rudy Gobert just hopes that L stands for “lesson”.</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1230312932.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="38868" type="image/jpeg" />
+      <pubDate>Sun, 27 Dec 2020 05:49:48 GMT</pubDate>
+      <guid isPermaLink="false">32174</guid>
+      <dc:creator>Aaron Falk</dc:creator>
+      <dc:date>2020-12-27T05:49:48Z</dc:date>
+    </item>
+    <item>
+      <title>Utah Jazz keep Damian Lillard in check, cruise to 120-100 opening-night victory over Portland</title>
+      <link>https://www.nba.com/jazz/news/utah-jazz-keep-damian-lillard-check-cruise-120-100-opening-night-victory-over-portland</link>
+      <description>Donovan Mitchell wanted a fast start to the season.
+The Utah Jazz delivered.</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1292840574.jpg?cw=100&amp;ch=100&amp;w=137&amp;h=100&amp;x=19&amp;y=0" length="37207" type="image/jpeg" />
+      <pubDate>Thu, 24 Dec 2020 06:21:40 GMT</pubDate>
+      <guid isPermaLink="false">32153</guid>
+      <dc:creator>Aaron Falk</dc:creator>
+      <dc:date>2020-12-24T06:21:40Z</dc:date>
+    </item>
+    <item>
+      <title>Roundball Roundup: Dennis Lindsey previews the 2020-2021 Season</title>
+      <link>https://www.nba.com/jazz/news/roundball-roundup-dennis-lindsey-previews-2020-2021-season</link>
+      <description>With the shortest offseason in professional sports history, Dennis Lindsey needed to work fast.</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/dennis_lindsey_thumb.jpg?cw=100&amp;ch=100&amp;w=183&amp;h=100&amp;x=42&amp;y=0" length="18169" type="image/jpeg" />
+      <pubDate>Wed, 23 Dec 2020 22:06:25 GMT</pubDate>
+      <guid isPermaLink="false">32143</guid>
+      <dc:creator>JP Chunga</dc:creator>
+      <dc:date>2020-12-23T22:06:25Z</dc:date>
+    </item>
+    <item>
+      <title>Ryan and Ashley Smith bring their love of basketball and their state to the Utah Jazz</title>
+      <link>https://www.nba.com/jazz/utah-jazz-owners-ryan-and-ashley-smith-bring-their-love-basketball-and-their-state-nba</link>
+      <description>Life is a series of experiences.
+In the case of Ryan Smith, experience is life.</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/smiths_solo.png?cw=100&amp;ch=100&amp;w=178&amp;h=100&amp;x=39&amp;y=0" length="18526" type="image/png" />
+      <pubDate>Thu, 24 Dec 2020 03:03:33 GMT</pubDate>
+      <guid isPermaLink="false">32141</guid>
+      <dc:creator>Aaron Falk</dc:creator>
+      <dc:date>2020-12-24T03:03:33Z</dc:date>
+    </item>
+    <item>
+      <title>Utah Jazz want to &amp;#039;come out ready to go&amp;#039; as they prepare for season-opener in Portland</title>
+      <link>https://www.nba.com/jazz/news/utah-jazz-want-come-out-ready-go-they-prepare-season-opener-portland</link>
+      <description>A short summer?
+A strange training camp?
+A truncated preseason?</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1230195918.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="32285" type="image/jpeg" />
+      <pubDate>Tue, 22 Dec 2020 23:09:33 GMT</pubDate>
+      <guid isPermaLink="false">32139</guid>
+      <dc:creator>Aaron Falk</dc:creator>
+      <dc:date>2020-12-22T23:09:33Z</dc:date>
+    </item>
+    <item>
+      <title>&amp;#039;Where my heart is&amp;#039;: Rudy Gobert discusses his contract extension with the Utah Jazz and his hopes for the future</title>
+      <link>https://www.nba.com/jazz/news/where-my-heart-rudy-gobert-discusses-his-contract-extension-utah-jazz-and-his-hopes-future</link>
+      <description>Rudy Gobert, more than anything else, wants to be a champion. He has envisioned it. Confetti falling. Champagne popping.</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/jaz1920_roster_gobert_hero.jpg?cw=100&amp;ch=100&amp;w=225&amp;h=100&amp;x=63&amp;y=0" length="21438" type="image/jpeg" />
+      <pubDate>Sun, 20 Dec 2020 21:49:25 GMT</pubDate>
+      <guid isPermaLink="false">32131</guid>
+      <dc:creator>Aaron Falk</dc:creator>
+      <dc:date>2020-12-20T21:49:25Z</dc:date>
+    </item>
+    <item>
+      <title>Jazz sign Rudy Gobert to contract extension</title>
+      <link>https://www.nba.com/jazz/news/jazz-sign-rudy-gobert-contract-extension</link>
+      <description>The Utah Jazz announced today that the team has signed two-time Defensive Player of the Year, three-time All-NBA honoree and four-time Al</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/jaz2021_freeagency_signed_gobert1920x1080.jpg?cw=100&amp;ch=100&amp;w=178&amp;h=100&amp;x=39&amp;y=0" length="33408" type="image/jpeg" />
+      <pubDate>Sun, 20 Dec 2020 16:00:53 GMT</pubDate>
+      <guid isPermaLink="false">32130</guid>
+      <dc:creator>Angie Treasure</dc:creator>
+      <dc:date>2020-12-20T16:00:53Z</dc:date>
+    </item>
+    <item>
+      <title>Jazz Waive Yogi Ferrell and Malcolm Miller</title>
+      <link>https://www.nba.com/jazz/news/jazz-waive-yogi-ferrell-and-malcolm-miller</link>
+      <description>The Utah Jazz announced today that the team has waived guard Yogi Ferrell and forward Malcolm Miller. </description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/gettyimages-1134271282.jpg?cw=100&amp;ch=100&amp;w=150&amp;h=100&amp;x=25&amp;y=0" length="21210" type="image/jpeg" />
+      <pubDate>Sun, 20 Dec 2020 00:12:22 GMT</pubDate>
+      <guid isPermaLink="false">32127</guid>
+      <dc:creator>Angie Treasure</dc:creator>
+      <dc:date>2020-12-20T00:12:22Z</dc:date>
+    </item>
+    <item>
+      <title>Roundball Roundup: Noah Eagle on Seinfeld, Kawhi, and Jazz-Clippers</title>
+      <link>https://www.nba.com/jazz/news/roundball-roundup-noah-eagle-seinfeld-kawhi-and-jazz-clippers</link>
+      <description>Noah Eagle, radio voice for the Los Angeles Clippers, is the bridge between the end of the preseason and start of the NBA on T</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/noah_eagle_thumb.jpg?cw=100&amp;ch=100&amp;w=183&amp;h=100&amp;x=42&amp;y=0" length="15326" type="image/jpeg" />
+      <pubDate>Sat, 19 Dec 2020 15:54:04 GMT</pubDate>
+      <guid isPermaLink="false">32126</guid>
+      <dc:creator>JP Chunga</dc:creator>
+      <dc:date>2020-12-19T15:54:04Z</dc:date>
+    </item>
+    <item>
+      <title>Jazz Sign Yogi Ferrell and Malcolm Miller</title>
+      <link>https://www.nba.com/jazz/news/jazz-sign-yogi-ferrell-and-malcolm-miller</link>
+      <description>The Utah Jazz announced today that the team has signed guard Yogi Ferrell and forward Malcolm Miller.</description>
+      <source url="https://www.nba.com/jazz/rss.xml">Utah Jazz</source>
+      <enclosure url="https://www.nba.com/jazz/sites/jazz/files/signings_0.jpg?cw=100&amp;ch=100&amp;w=194&amp;h=100&amp;x=47&amp;y=0" length="33090" type="image/jpeg" />
+      <pubDate>Fri, 18 Dec 2020 23:18:16 GMT</pubDate>
+      <guid isPermaLink="false">32125</guid>
+      <dc:creator>Angie Treasure</dc:creator>
+      <dc:date>2020-12-18T23:18:16Z</dc:date>
+    </item>
+    <item>
+      <title>Sources: Padres near deal to acquire Rays' Snell</title>
+      <link>https://www.espn.com/mlb/story/_/id/30610024/sources-padres-trade-acquire-former-cy-young-winner-blake-snell-rays</link>
+      <description>The San Diego Padres are finalizing a trade to acquire former Cy Young winner Blake Snell from the Tampa Bay Rays for prospects, sources told ESPN's Jeff Passan.</description>
+      <pubDate>Mon, 28 Dec 2020 04:32:59 GMT</pubDate>
+      <guid isPermaLink="false">30610024</guid>
+      <dc:date>2020-12-28T04:32:59Z</dc:date>
+    </item>
+    <item>
+      <title>WFT's Haskins muffs opportunity: 'It is what it is'</title>
+      <link>https://www.espn.com/nfl/story/_/id/30609213/washington-football-team-qb-dwayne-haskins-downcast-being-benched-loss</link>
+      <description>Dwayne Haskins, who was benched in the fourth quarter of Sunday's 20-13 loss to Carolina, called the past week "the hardest week of my life."</description>
+      <pubDate>Mon, 28 Dec 2020 02:49:15 GMT</pubDate>
+      <guid isPermaLink="false">30609213</guid>
+      <dc:date>2020-12-28T02:49:15Z</dc:date>
+    </item>
+    <item>
+      <title>Sources: Rams fear Goff suffered broken thumb</title>
+      <link>https://www.espn.com/nfl/story/_/id/30609308/los-angeles-rams-qb-jared-goff-injures-thumb-not-play-week-17</link>
+      <description>The Rams fear that quarterback Jared Goff suffered a broken thumb at Seattle on Sunday, a source told ESPN's Adam Schefter, and that he might not play in the regular-season finale versus Arizona.</description>
+      <pubDate>Mon, 28 Dec 2020 02:49:15 GMT</pubDate>
+      <guid isPermaLink="false">30609308</guid>
+      <dc:date>2020-12-28T02:49:15Z</dc:date>
+    </item>
+    <item>
+      <title>Chiefs clinch No. 1 seed as Kelce sets records</title>
+      <link>https://www.espn.com/nfl/story/_/id/30607014/kansas-city-chiefs-clinch-no-1-seed-afc-travis-kelce-sets-records</link>
+      <description>The Chiefs held off the Falcons 17-14 to clinch the No. 1 seed in the AFC as tight end Travis Kelce set two NFL records in the victory.</description>
+      <pubDate>Mon, 28 Dec 2020 02:49:16 GMT</pubDate>
+      <guid isPermaLink="false">30607014</guid>
+      <dc:date>2020-12-28T02:49:16Z</dc:date>
+    </item>
+    <item>
+      <title>Mavs put Clips in record 50-point halftime hole</title>
+      <link>https://www.espn.com/nba/story/_/id/30607630/dallas-mavericks-set-record-largest-half-lead-putting-la-clippers-50-point-hole</link>
+      <description>The Mavericks set an NBA record for largest halftime lead with a 77-27 advantage over the LA Clippers -- breaking the mark of 47 set by the Warriors vs. the Kings in 1991.</description>
+      <pubDate>Mon, 28 Dec 2020 02:49:16 GMT</pubDate>
+      <guid isPermaLink="false">30607630</guid>
+      <dc:date>2020-12-28T02:49:16Z</dc:date>
+    </item>
+    <item>
+      <title>Mayfield says he 'failed' Browns in loss to Jets</title>
+      <link>https://www.espn.com/nfl/story/_/id/30608022/baker-mayfield-says-failed-cleveland-browns-loss-new-york-jets</link>
+      <description>Baker Mayfield said he "failed" the Browns after their 23-16 loss to the New York Jets, a defeat in which he fumbled three times.</description>
+      <pubDate>Mon, 28 Dec 2020 02:49:16 GMT</pubDate>
+      <guid isPermaLink="false">30608022</guid>
+      <dc:date>2020-12-28T02:49:16Z</dc:date>
+    </item>
+    <item>
+      <title>Watt rants on Texans' effort: If you don't care, go</title>
+      <link>https://www.espn.com/nfl/story/_/id/30608007/jj-watt-rants-houston-texans-lack-professionalism-feels-bad-fans</link>
+      <description>J.J. Watt is unhappy with the Texans' lack of professionalism amid this 4-11 season, saying "if you can't want to go out there and win, you shouldn't be here."</description>
+      <pubDate>Mon, 28 Dec 2020 02:49:16 GMT</pubDate>
+      <guid isPermaLink="false">30608007</guid>
+      <dc:date>2020-12-28T02:49:16Z</dc:date>
+    </item>
+    <item>
+      <title>Week 16 takeaways: Steelers get back to winning ways; Browns squander opportunity</title>
+      <link>https://www.espn.com/nfl/story/_/id/30602569/nfl-week-16-takeaways-stat-leaders-saints-clinch-nfc-south-brady-helps-buccaneers-playoffs</link>
+      <description>Pittsburgh halted its losing streak, while Cleveland put its playoff hopes in danger after losing to the two-win Jets.</description>
+      <pubDate>Mon, 28 Dec 2020 04:41:33 GMT</pubDate>
+      <guid isPermaLink="false">30602569</guid>
+      <dc:date>2020-12-28T04:41:33Z</dc:date>
+    </item>
+    <item>
+      <title>Chiefs' Tyreek Hill does a DK Metcalf after saying he would never get the chance</title>
+      <link>https://www.espn.com/blog/kansas-city-chiefs/post/_/id/29295/chiefs-tyreek-hill-does-a-dk-metcalf-after-saying-he-would-never-get-the-chance</link>
+      <description>The speedy Hill tracked down the Falcons' Foyesade Oluokun 51 yards down the field following an interception.</description>
+      <pubDate>Sun, 27 Dec 2020 23:57:43 GMT</pubDate>
+      <guid isPermaLink="false">kansas-city-chiefs-29295</guid>
+      <dc:date>2020-12-27T23:57:43Z</dc:date>
+    </item>
+    <item>
+      <title>Spurs' winless run a massive test for Mourinho and his managerial style</title>
+      <link>https://www.espn.com/soccer/blog-the-match/story/4274645/tottenhams-current-winless-run-a-massive-test-for-mourinho-and-his-relationship-with-his-players</link>
+      <description>Tottenham are now winless in four after Sunday's draw at Wolves. Can Jose Mourinho get the train back on track or will his style be Spurs' undoing?</description>
+      <pubDate>Mon, 28 Dec 2020 03:18:21 GMT</pubDate>
+      <guid isPermaLink="false">4274645</guid>
+      <dc:date>2020-12-28T03:18:21Z</dc:date>
+    </item>
+    <item>
+      <title>Sources: NFL teams eye Meyer for HC openings</title>
+      <link>https://www.espn.com/nfl/story/_/id/30605057/sources-nfl-teams-ask-urban-meyer-interest-return-coaching</link>
+      <description>At least two NFL teams have reached out to Urban Meyer to see whether he would be interested in interviewing for -- if not accepting -- a head-coaching job at the next level, sources told ESPN.</description>
+      <pubDate>Sun, 27 Dec 2020 23:07:35 GMT</pubDate>
+      <guid isPermaLink="false">30605057</guid>
+      <dc:date>2020-12-27T23:07:35Z</dc:date>
+    </item>
+    <item>
+      <title>Music City Bowl canceled after Mizzou virus spike</title>
+      <link>https://www.espn.com/college-football/story/_/id/30606851/missouri-tigers-music-city-bowl-rise-coronavirus-cases</link>
+      <description>Missouri was set to face Iowa in the Music City Bowl on Wednesday in Nashville.</description>
+      <pubDate>Sun, 27 Dec 2020 23:07:35 GMT</pubDate>
+      <guid isPermaLink="false">30606851</guid>
+      <dc:date>2020-12-27T23:07:35Z</dc:date>
+    </item>
+    <item>
+      <title>Villanova's Wright tests positive for coronavirus</title>
+      <link>https://www.espn.com/mens-college-basketball/story/_/id/30606921/villanova-wildcats-men-basketball-team-pauses-activities-coach-jay-wright-tests-positive-coronavirus</link>
+      <description>Villanova has paused team activities after coach Jay Wright tested positive for COVID-19.</description>
+      <pubDate>Sun, 27 Dec 2020 23:07:35 GMT</pubDate>
+      <guid isPermaLink="false">30606921</guid>
+      <dc:date>2020-12-27T23:07:35Z</dc:date>
+    </item>
+    <item>
+      <title>Bubba Wallace won't let anyone stand in the way of what he believes anymore</title>
+      <link>https://www.espn.com/racing/story/_/id/30583100/how-bubba-wallace-pushed-nascar-evolve-2020</link>
+      <description>Wallace has long known he is speaking on behalf of Black motorsports fans. Still, he never fully immersed himself in that responsibility -- until this year. Watch SportsCenter Presents 2020 at 8 p.m. ET on ESPN.</description>
+      <pubDate>Sun, 27 Dec 2020 06:42:38 GMT</pubDate>
+      <guid isPermaLink="false">30583100</guid>
+      <dc:date>2020-12-27T06:42:38Z</dc:date>
+    </item>
+    <item>
+      <title>The grand athlete autograph experiment: Do our favorite stars still respond to fan mail?</title>
+      <link>https://www.espn.com/nba/story/_/id/30573261/what-happens-14-year-old-superfan-writes-favorite-nba-wnba-stars-bubble</link>
+      <description>What are the chances that an autograph request in July actually got to an NBA or WNBA star in the bubble? Probably only slightly better than getting a response, right? Wrong, as one 14-year-old superfan recently found out.</description>
+      <pubDate>Wed, 23 Dec 2020 12:15:32 GMT</pubDate>
+      <guid isPermaLink="false">30573261</guid>
+      <dc:date>2020-12-23T12:15:32Z</dc:date>
+    </item>
+    <item>
+      <title>Draft kit: Rankings, mock drafts, sleepers, projections and analysis</title>
+      <link>https://www.espn.com/fantasy/basketball/story/_/id/30309237/fantasy-basketball-draft-kit-rankings-mock-drafts-sleepers-projections-analysis</link>
+      <description>We've got everything you need to dominate fantasy basketball from every angle.</description>
+      <pubDate>Sun, 27 Dec 2020 06:43:44 GMT</pubDate>
+      <guid isPermaLink="false">30309237</guid>
+      <dc:date>2020-12-27T06:43:44Z</dc:date>
+    </item>
+    <item>
+      <title>Why Canelo Alvarez is(n't) boxing's pound-for-pound king</title>
+      <link>https://www.espn.com/boxing/story/_/id/30588137/why-canelo-alvarez-isnt-boxing-pound-pound-king</link>
+      <description>The ESPN pound-for-pound panel ranks Terence Crawford No. 1. Others disagree. Ben Baby and Cameron Wolfe break down what makes both fighters the best in the sport.</description>
+      <pubDate>Thu, 24 Dec 2020 14:05:45 GMT</pubDate>
+      <guid isPermaLink="false">30588137</guid>
+      <dc:date>2020-12-24T14:05:45Z</dc:date>
+    </item>
+    <item>
+      <title>MMA divisional rankings: A change at No. 1 and several new arrivals highlight latest movement</title>
+      <link>https://www.espn.com/mma/story/_/id/21807736/jorge-masvidal-douglas-lima-shake-welterweight-rankings</link>
+      <description>UFC men's flyweight champion Deiveson Figueiredo leapfrogged a legend to take over at 125 pounds in the biggest change in the ESPN divisional rankings.</description>
+      <pubDate>Wed, 23 Dec 2020 16:49:27 GMT</pubDate>
+      <guid isPermaLink="false">21807736</guid>
+      <dc:date>2020-12-23T16:49:27Z</dc:date>
+    </item>
+    <item>
+      <title>The wrestling world mourns the loss of Brodie Lee</title>
+      <link>https://www.espn.com/wwe/story/_/id/30602676/the-wrestling-world-mourns-loss-brodie-lee</link>
+      <description>Wrestlers react to the death of Jon Huber, aka Luke Harper and Brodie Lee.</description>
+      <pubDate>Sun, 27 Dec 2020 03:41:00 GMT</pubDate>
+      <guid isPermaLink="false">30602676</guid>
+      <dc:date>2020-12-27T03:41:00Z</dc:date>
+    </item>
+  </channel>
+</rss>

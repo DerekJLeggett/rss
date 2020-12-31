@@ -45,17 +45,6 @@
 			<artifactId>rome-opml</artifactId>
 			<version>1.15.0</version>
 		</dependency>
-		<dependency>
-			<groupId>be.ceau</groupId>
-			<artifactId>opml-parser</artifactId>
-			<version>2.2.0</version>
-		</dependency>
- 
-   <dependency>
-     <groupId>ws.palladian</groupId>
-     <artifactId>palladian-retrieval</artifactId>
-     <version>1.0.0</version>
-   </dependency>
  </dependencies>
  	<build>
 		<plugins>

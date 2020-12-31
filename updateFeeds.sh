@@ -24,4 +24,5 @@ mvn spring-boot:run -Dspring-boot.run.arguments="medical https://www.medicinenet
 mvn spring-boot:run -Dspring-boot.run.arguments="library https://www.loc.gov/rss/pao/news.xml"
 mvn spring-boot:run -Dspring-boot.run.arguments="fashion https://www.elle.com/rss/all.xml/ https://www.gq.com/feed/style/rss https://www.vanityfair.com/feed/rss https://www.maxim.com/.rss/full/"
 mvn spring-boot:run -Dspring-boot.run.arguments="lifestyle https://lifehacker.com/rss"
+mvn spring-boot:run -Dspring-boot.run.arguments="national_parks https://www.nps.gov/feeds/getnewsrss.htm?id=gate https://www.nps.gov/feeds/getnewsrss.htm?id=grca"
 sudo cp /home/admin/git/rss/*.xml /var/www/html/assets/rss/
