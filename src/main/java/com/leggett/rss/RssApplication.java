@@ -2,13 +2,15 @@ package com.leggett.rss;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.util.StringUtils;
 
 import java.net.URL;
 import java.io.File;
 import java.util.List;
 import java.util.ArrayList;
 
+import com.leggett.rss.Feed.Categories;
+import com.rometools.rome.feed.synd.SyndCategory;
+import com.rometools.rome.feed.synd.SyndCategoryImpl;
 import com.rometools.rome.feed.synd.SyndFeed;
 import com.rometools.rome.feed.synd.SyndFeedImpl;
 import com.rometools.rome.io.SyndFeedOutput;
@@ -18,40 +20,63 @@ import com.rometools.rome.io.XmlReader;
 public class RssApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RssApplication.class, args);
-		boolean ok = false;
-        if (args.length>=2) {
+        SpringApplication.run(RssApplication.class, args);
+        List<Feed> feeds = new ArrayList<>();
+        feeds.add(new Feed(Categories.entertainment, "https://rss.tvguide.com/breakingnews      "));
+        feeds.add(new Feed(Categories.entertainment, "https://www.tvguide.com/feed/rss/gallery.xml"));
+        feeds.add(new Feed(Categories.entertainment, "https://www.etonline.com/news/rss"));
+        feeds.add(new Feed(Categories.entertainment, "https://www.etonline.com/gallery/rss"));
+        feeds.add(new Feed(Categories.entertainment, "https://www.etonline.com/video/rss"));
+        feeds.add(new Feed(Categories.entertainment, "https://feeds.npr.org/1008/rss.xml"));
+        feeds.add(new Feed(Categories.entertainment, "https://www.newyorker.com/feed/humor"));
+        feeds.add(new Feed(Categories.entertainment, "https://feeds.npr.org/13/rss.xml"));
+        feeds.add(new Feed(Categories.entertainment, "https://feeds.npr.org/1045/rss.xml"));
+        feeds.add(new Feed(Categories.entertainment, "https://www.youtube.com/feeds/videos.xml?user=EntertainmentTonight"));
+        feeds.add(new Feed(Categories.news, "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"));
+        feeds.add(new Feed(Categories.news, "https://feeds.npr.org/1001/rss.xml"));
+        feeds.add(new Feed(Categories.news, "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/americas/rss.xml"));
+        feeds.add(new Feed(Categories.news, "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml?edition=int"));
+        feeds.add(new Feed(Categories.education, "https://www.ed.gov/feed"));
+        feeds.add(new Feed(Categories.education, "https://www2.smartbrief.com/servlet/rss?b=ASCD"));
+        feeds.add(new Feed(Categories.education, "https://feeds.npr.org/1013/rss.xml"));
+        feeds.add(new Feed(Categories.education, "http://blog.discoveryeducation.com/feed/"));
+        feeds.add(new Feed(Categories.education, "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/learning/rss.xml"));
+        feeds.add(new Feed(Categories.science, "http://feeds.sciencedaily.com/sciencedaily"));
+        feeds.add(new Feed(Categories.science, "https://www.smithsonianmag.com/rss/latest_articles/"));
+        boolean ok = false;
             try {
                 SyndFeed feed = new SyndFeedImpl();
                 feed.setFeedType("rss_2.0");
 
-                feed.setTitle("Aggregated " + StringUtils.capitalize(args[0]) + " Feed");
+                feed.setTitle("Aggregated Feed");
                 feed.setDescription(feed.getTitle());
                 feed.setAuthor("Derek Leggett");
-                feed.setLink("https://www.thedorey.com/assets/rss/" + args[0] + ".xml");
+                feed.setLink("https://www.thedorey.com/assets/rss/rss.xml");
 
                 List entries = new ArrayList();
                 feed.setEntries(entries);
 
-                for (int i=1;i<args.length;i++) {
-                    URL inputUrl = new URL(args[i]);
-
+                for (Feed feedly:feeds) {
                     SyndFeedInput input = new SyndFeedInput();
-                    SyndFeed inFeed = input.build(new XmlReader(inputUrl));
+                    SyndFeed inFeed = input.build(new XmlReader(new URL(feedly.url)));
+                    // List<SyndCategory> categories = new ArrayList<SyndCategory>();
+                    // SyndCategory category = new SyndCategoryImpl();
+                    // category.setName(feedly.category.toString());
+                    // categories.add(category);
+                    // inFeed.setCategories(categories);
 
                     entries.addAll(inFeed.getEntries());
 
                 }
 
                 SyndFeedOutput output = new SyndFeedOutput();
-                output.output(feed,new File(args[0] + ".xml"));
+                output.output(feed,new File("rss.xml"));
 
                 ok = true;
             }
             catch (Exception ex) {
                 System.out.println("ERROR: "+ex.getMessage());
             }
-        }
 
         if (!ok) {
             System.out.println();

@@ -1,8 +1,8 @@
 #!/bin/bash
-mvn spring-boot:run -Dspring-boot.run.arguments="entertainment https://rss.tvguide.com/breakingnews https://www.tvguide.com/feed/rss/gallery.xml https://www.etonline.com/news/rss https://www.etonline.com/gallery/rss https://www.etonline.com/video/rss https://feeds.npr.org/1008/rss.xml https://www.newyorker.com/feed/humor https://feeds.npr.org/13/rss.xml https://feeds.npr.org/1045/rss.xml https://www.youtube.com/feeds/videos.xml?user=EntertainmentTonight"
-mvn spring-boot:run -Dspring-boot.run.arguments="news https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml https://feeds.npr.org/1001/rss.xml http://newsrss.bbc.co.uk/rss/newsonline_world_edition/americas/rss.xml http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml?edition=int"
-mvn spring-boot:run -Dspring-boot.run.arguments="education https://www.ed.gov/feed https://www2.smartbrief.com/servlet/rss?b=ASCD https://feeds.npr.org/1013/rss.xml http://blog.discoveryeducation.com/feed/ https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/learning/rss.xml"
-mvn spring-boot:run -Dspring-boot.run.arguments="science http://feeds.sciencedaily.com/sciencedaily https://www.smithsonianmag.com/rss/latest_articles/"
+mvn spring-boot:run -Dspring-boot.run.arguments="entertainment "
+mvn spring-boot:run -Dspring-boot.run.arguments="news    "
+mvn spring-boot:run -Dspring-boot.run.arguments="education     "
+mvn spring-boot:run -Dspring-boot.run.arguments="science  "
 mvn spring-boot:run -Dspring-boot.run.arguments="nature http://feeds.nature.com/nature/rss/current"
 mvn spring-boot:run -Dspring-boot.run.arguments="space https://www.nasa.gov/rss/dyn/breaking_news.rss https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss"
 mvn spring-boot:run -Dspring-boot.run.arguments="technology https://www.wired.com/feed https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml https://feeds.npr.org/1019/rss.xml https://www.surfnetkids.com/resources/feed/ https://www.macworld.com/index.rss https://www.pcworld.com/index.rss https://www.engadget.com/rss.xml https://www.anandtech.com/rss/ https://www.tomshardware.com/feeds/all"
