@@ -1,21 +1,4 @@
 #!/bin/bash
+git pull
 mvn spring-boot:run
-# mvn spring-boot:run -Dspring-boot.run.arguments="space  "
-# mvn spring-boot:run -Dspring-boot.run.arguments="technology         "
-# mvn spring-boot:run -Dspring-boot.run.arguments="pbs "
-# mvn spring-boot:run -Dspring-boot.run.arguments="sports   "
-# mvn spring-boot:run -Dspring-boot.run.arguments="boxing "
-# mvn spring-boot:run -Dspring-boot.run.arguments="college_basketball "
-# mvn spring-boot:run -Dspring-boot.run.arguments="celebrity "
-# mvn spring-boot:run -Dspring-boot.run.arguments="photos  "
-# mvn spring-boot:run -Dspring-boot.run.arguments="baseball "
-# mvn spring-boot:run -Dspring-boot.run.arguments="music "
-# mvn spring-boot:run -Dspring-boot.run.arguments="movies "
-# mvn spring-boot:run -Dspring-boot.run.arguments="PC_video_games https://www.metacritic.com/rss/games/pc"
-# mvn spring-boot:run -Dspring-boot.run.arguments="automotive https://www.motortrend.com/feed/"
-# mvn spring-boot:run -Dspring-boot.run.arguments="medical https://www.medicinenet.com/rss/dailyhealth.xml https://medlineplus.gov/feeds/whatsnew.xml"
-# mvn spring-boot:run -Dspring-boot.run.arguments="library https://www.loc.gov/rss/pao/news.xml"
-# mvn spring-boot:run -Dspring-boot.run.arguments="fashion https://www.elle.com/rss/all.xml/ https://www.gq.com/feed/style/rss https://www.vanityfair.com/feed/rss https://www.maxim.com/.rss/full/"
-# mvn spring-boot:run -Dspring-boot.run.arguments="lifestyle https://lifehacker.com/rss"
-# mvn spring-boot:run -Dspring-boot.run.arguments="national_parks https://www.nps.gov/feeds/getnewsrss.htm?id=gate https://www.nps.gov/feeds/getnewsrss.htm?id=grca"
 sudo cp /home/admin/git/rss/rss.xml /var/www/html/assets/rss/

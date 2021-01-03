@@ -21,6 +21,13 @@ public class Feed {
         , photos
         , music
         , movies
+        , pc_video_games
+        , automotive
+        , medical
+        , library
+        , fashion
+        , lifestyle
+        , national_parks
     }
 
     public Feed(Categories category, String url) {

@@ -67,6 +67,25 @@ public class RssApplication {
         feeds.add(new Feed(Categories.music, "https://www.billboard.com/feed/"));
         feeds.add(new Feed(Categories.movies, "https://www.metacritic.com/rss/movies"));
         feeds.add(new Feed(Categories.movies, "https://movieweb.com/rss/all-news/"));
+        feeds.add(new Feed(Categories.pc_video_games, "https://www.metacritic.com/rss/games/pc"));
+        feeds.add(new Feed(Categories.automotive, "https://www.motortrend.com/feed/"));
+        feeds.add(new Feed(Categories.medical, "https://www.medicinenet.com/rss/dailyhealth.xml"));
+        feeds.add(new Feed(Categories.medical, "https://medlineplus.gov/feeds/whatsnew.xml"));
+        feeds.add(new Feed(Categories.library, "https://www.loc.gov/rss/pao/news.xml"));
+        feeds.add(new Feed(Categories.fashion, "https://www.elle.com/rss/all.xml/"));
+        feeds.add(new Feed(Categories.fashion, "https://www.gq.com/feed/style/rss"));
+        feeds.add(new Feed(Categories.fashion, "https://www.vanityfair.com/feed/rss"));
+        feeds.add(new Feed(Categories.fashion, "https://www.maxim.com/.rss/full/"));
+        feeds.add(new Feed(Categories.lifestyle, "https://lifehacker.com/rss"));
+        feeds.add(new Feed(Categories.national_parks, "https://www.nps.gov/feeds/getnewsrss.htm?id=gate"));
+        feeds.add(new Feed(Categories.national_parks, "https://www.nps.gov/feeds/getnewsrss.htm?id=grca"));
+
+        // List<SyndCategory> categories = new ArrayList<SyndCategory>();
+        // SyndCategory category = new SyndCategoryImpl();
+        // category.setName(feedly.category.toString());
+        // categories.add(category);
+        // inFeed.setCategories(categories);
+
         boolean ok = false;
             try {
                 SyndFeed feed = new SyndFeedImpl();
@@ -83,11 +102,7 @@ public class RssApplication {
                 for (Feed feedly:feeds) {
                     SyndFeedInput input = new SyndFeedInput();
                     SyndFeed inFeed = input.build(new XmlReader(new URL(feedly.url)));
-                    // List<SyndCategory> categories = new ArrayList<SyndCategory>();
-                    // SyndCategory category = new SyndCategoryImpl();
-                    // category.setName(feedly.category.toString());
-                    // categories.add(category);
-                    // inFeed.setCategories(categories);
+                   
 
                     entries.addAll(inFeed.getEntries());
 
