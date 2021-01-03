@@ -9,6 +9,18 @@ public class Feed {
         , news
         , education
         , science
+        , nature
+        , space
+        , technology
+        , pbs
+        , sports
+        , boxing
+        , college_basketball
+        , baseball
+        , celebrity
+        , photos
+        , music
+        , movies
     }
 
     public Feed(Categories category, String url) {
