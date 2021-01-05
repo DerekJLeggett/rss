@@ -104,11 +104,13 @@ public class RssApplication {
                         List<SyndCategory> cats = entry.getCategories();
                         SyndCategory syndCategory = new SyndCategoryImpl();
                         syndCategory.setName(feedly.category.getCategory());
-                        cats.add(0, syndCategory);
+                        if(cats.size() > -1){
+                            cats.add(0, syndCategory);
+                        }else{
+                            entry.setCategories(cats);
+                        }
                     }
-
                     entries.addAll(entryList);
-
                 }
 
                 SyndFeedOutput output = new SyndFeedOutput();
