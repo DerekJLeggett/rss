@@ -1,35 +1,43 @@
 package com.leggett.rss;
 
 public class Feed {
-    Categories category;
+
+	Categories category;
     String url;
 
     public enum Categories{
-        entertainment
-        , news
-        , education
-        , science
-        , nature
-        , space
-        , technology
-        , pbs
-        , sports
-        , boxing
-        , college_basketball
-        , baseball
-        , celebrity
-        , photos
-        , music
-        , movies
-        , pc_video_games
-        , automotive
-        , medical
-        , library
-        , fashion
-        , lifestyle
-        , national_parks
+        ENTERTAINMENT("Entertainment")
+        , NEWS("News")
+        , EDUCATION("Education")
+        , SCIENCE("Science")
+        , NATURE("Nature")
+        , SPACE("Space")
+        , TECHNOLOGY("Technology")
+        , PBS("PBS")
+        , SPORTS("Sports")
+        , BOXING("Boxing")
+        , COLLEGE_BASKETBALL("College Basketball")
+        , BASEBALL("Baseball")
+        , CELEBRITY("Celebrity")
+        , PHOTOS("Photos")
+        , MUSIC("Music")
+        , MOVIES("Movies")
+        , PC_VIDEO_GAMES("PC Video Games")
+        , AUTOMOTIVE("Automotive")
+        , MEDICAL("Medical")
+        , LIBRARY("Library")
+        , FASHION("Fashion")
+        , LIFESTYLE("Lifestyle")
+        , NATIONAL_PARKS("National Parks");
+        private final String name;  
+        private Categories(String s) {
+            name = s;
+        }
+    
+        public String getCategory() {
+            return this.name;
+         }
     }
-
     public Feed(Categories category, String url) {
         this.category = category;
         this.url = url;
