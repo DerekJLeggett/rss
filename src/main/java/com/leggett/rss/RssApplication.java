@@ -87,8 +87,8 @@ public class RssApplication {
                 SyndFeed feed = new SyndFeedImpl();
                 feed.setFeedType("rss_2.0");
 
-                feed.setTitle("Aggregated Feed");
-                feed.setDescription(feed.getTitle());
+                feed.setTitle("TheDorey.com - Aggregated Feed");
+                feed.setDescription("An eclectic collection of feeds from around the web.");
                 feed.setAuthor("Derek Leggett");
                 feed.setLink("https://www.thedorey.com/assets/rss/rss.xml");
 
