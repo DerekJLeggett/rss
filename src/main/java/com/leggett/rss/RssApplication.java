@@ -75,9 +75,7 @@ public class RssApplication {
         feeds.add(new Feed(Categories.MEDICAL, "https://medlineplus.gov/feeds/whatsnew.xml"));
         feeds.add(new Feed(Categories.LIBRARY, "https://www.loc.gov/rss/pao/news.xml"));
         feeds.add(new Feed(Categories.FASHION, "https://www.elle.com/rss/all.xml/"));
-        feeds.add(new Feed(Categories.FASHION, "https://www.gq.com/feed/style/rss"));
         feeds.add(new Feed(Categories.FASHION, "https://www.vanityfair.com/feed/rss"));
-        feeds.add(new Feed(Categories.FASHION, "https://www.maxim.com/.rss/full/"));
         feeds.add(new Feed(Categories.LIFESTYLE, "https://lifehacker.com/rss"));
         feeds.add(new Feed(Categories.NATIONAL_PARKS, "https://www.nps.gov/feeds/getnewsrss.htm?id=gate"));
         feeds.add(new Feed(Categories.NATIONAL_PARKS, "https://www.nps.gov/feeds/getnewsrss.htm?id=grca"));
