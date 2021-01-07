@@ -77,7 +77,7 @@ public class RssApplication {
         feeds.add(new Feed(Categories.MOVIES, "https://movieweb.com/rss/all-news/"));
         feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "https://www.metacritic.com/rss/games/pc"));
         feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "https://store.steampowered.com/feeds/news.xml"));
-        feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "http://www.polygon.com/rss/index.xml"));
+        // feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "http://www.polygon.com/rss/index.xml"));
         feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "https://blog.humblebundle.com/feed/"));
         feeds.add(new Feed(Categories.AUTOMOTIVE, "https://www.motortrend.com/feed/"));
         feeds.add(new Feed(Categories.MEDICAL, "https://www.medicinenet.com/rss/dailyhealth.xml"));
@@ -93,7 +93,7 @@ public class RssApplication {
         feeds.add(new Feed(Categories.DOCUMENTARY, "https://feeds.simplecast.com/6HzeyO6b"));
         feeds.add(new Feed(Categories.RACE, "https://feeds.npr.org/510312/podcast.xml"));
         feeds.add(new Feed(Categories.CRIME, "https://feeds.megaphone.fm/ADL9840290619"));
-        feeds.add(new Feed(Categories.CRIME, "omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/44bbf446-4627-4f83-a7fd-ab070007db11/72b96aa8-88bd-480a-87af-ab070007db36/podcast.rss"));
+        feeds.add(new Feed(Categories.CRIME, "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/44bbf446-4627-4f83-a7fd-ab070007db11/72b96aa8-88bd-480a-87af-ab070007db36/podcast.rss"));
         feeds.add(new Feed(Categories.HUMANITY, "https://feeds.megaphone.fm/unlocking-us"));
 
         boolean ok = false;
@@ -112,7 +112,7 @@ public class RssApplication {
                 for (Feed feedly:feeds) {
                     SyndFeedInput input = new SyndFeedInput();
                     SyndFeed inFeed = input.build(new XmlReader(new URL(feedly.url)));
-                   
+                    System.out.println(feedly.url);
                     List<SyndEntry> entryList = inFeed.getEntries();
                     for(SyndEntry entry: entryList){
                         List<SyndCategory> cats = entry.getCategories();
