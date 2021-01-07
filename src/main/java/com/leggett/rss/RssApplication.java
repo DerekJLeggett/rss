@@ -37,6 +37,10 @@ public class RssApplication {
         feeds.add(new Feed(Categories.NEWS, "https://feeds.npr.org/1001/rss.xml"));
         feeds.add(new Feed(Categories.NEWS, "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/americas/rss.xml"));
         feeds.add(new Feed(Categories.NEWS, "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml?edition=int"));
+        feeds.add(new Feed(Categories.NEWS, "https://www.vox.com/rss/index.xml"));
+        feeds.add(new Feed(Categories.NEWS, "https://podcastfeeds.nbcnews.com/dateline-nbc"));
+        feeds.add(new Feed(Categories.NEWS, "http://rss.art19.com/the-daily"));
+        feeds.add(new Feed(Categories.NEWS, "https://feeds.megaphone.fm/WWO8086402096"));
         feeds.add(new Feed(Categories.EDUCATION, "https://www.ed.gov/feed"));
         feeds.add(new Feed(Categories.EDUCATION, "https://www2.smartbrief.com/servlet/rss?b=ASCD"));
         feeds.add(new Feed(Categories.EDUCATION, "https://feeds.npr.org/1013/rss.xml"));
@@ -56,6 +60,9 @@ public class RssApplication {
         feeds.add(new Feed(Categories.TECHNOLOGY, "https://www.engadget.com/rss.xml"));
         feeds.add(new Feed(Categories.TECHNOLOGY, "https://www.anandtech.com/rss/"));
         feeds.add(new Feed(Categories.TECHNOLOGY, "https://www.tomshardware.com/feeds/all"));
+        feeds.add(new Feed(Categories.TECHNOLOGY, "http://rss.slashdot.org/Slashdot/slashdot"));
+        feeds.add(new Feed(Categories.TECHNOLOGY, "https://www.theverge.com/rss/index.xml"));
+        feeds.add(new Feed(Categories.TECHNOLOGY, "https://feeds.howtogeek.com/HowToGeek"));
         feeds.add(new Feed(Categories.PBS, "https://www.pbs.org/wgbh/nova/rss/all/"));
         feeds.add(new Feed(Categories.SPORTS, "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"));
         feeds.add(new Feed(Categories.SPORTS, "https://www.nba.com/jazz/rss.xml"));
@@ -70,6 +77,8 @@ public class RssApplication {
         feeds.add(new Feed(Categories.MOVIES, "https://movieweb.com/rss/all-news/"));
         feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "https://www.metacritic.com/rss/games/pc"));
         feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "https://store.steampowered.com/feeds/news.xml"));
+        feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "http://www.polygon.com/rss/index.xml"));
+        feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "https://blog.humblebundle.com/feed/"));
         feeds.add(new Feed(Categories.AUTOMOTIVE, "https://www.motortrend.com/feed/"));
         feeds.add(new Feed(Categories.MEDICAL, "https://www.medicinenet.com/rss/dailyhealth.xml"));
         feeds.add(new Feed(Categories.MEDICAL, "https://medlineplus.gov/feeds/whatsnew.xml"));
@@ -79,6 +88,13 @@ public class RssApplication {
         feeds.add(new Feed(Categories.LIFESTYLE, "https://lifehacker.com/rss"));
         feeds.add(new Feed(Categories.NATIONAL_PARKS, "https://www.nps.gov/feeds/getnewsrss.htm?id=gate"));
         feeds.add(new Feed(Categories.NATIONAL_PARKS, "https://www.nps.gov/feeds/getnewsrss.htm?id=grca"));
+        feeds.add(new Feed(Categories.WEB_DEV, "https://www.smashingmagazine.com/feed/"));
+        feeds.add(new Feed(Categories.COMEDY, "http://joeroganexp.joerogan.libsynpro.com/rss"));
+        feeds.add(new Feed(Categories.DOCUMENTARY, "https://feeds.simplecast.com/6HzeyO6b"));
+        feeds.add(new Feed(Categories.RACE, "https://feeds.npr.org/510312/podcast.xml"));
+        feeds.add(new Feed(Categories.CRIME, "https://feeds.megaphone.fm/ADL9840290619"));
+        feeds.add(new Feed(Categories.CRIME, "omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/44bbf446-4627-4f83-a7fd-ab070007db11/72b96aa8-88bd-480a-87af-ab070007db36/podcast.rss"));
+        feeds.add(new Feed(Categories.HUMANITY, "https://feeds.megaphone.fm/unlocking-us"));
 
         boolean ok = false;
             try {

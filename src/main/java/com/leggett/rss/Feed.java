@@ -28,7 +28,13 @@ public class Feed {
         , LIBRARY("Library")
         , FASHION("Fashion")
         , LIFESTYLE("Lifestyle")
-        , NATIONAL_PARKS("National Parks");
+        , NATIONAL_PARKS("National Parks")
+        , WEB_DEV("Web Devlopment")
+        , COMEDY("Comedy")
+        , DOCUMENTARY("Documentary")
+        , RACE("Race")
+        , CRIME("Crime")
+        , HUMANITY("Humanity");
         private final String name;  
         private Categories(String s) {
             name = s;
