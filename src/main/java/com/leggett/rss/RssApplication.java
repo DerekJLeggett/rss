@@ -84,7 +84,7 @@ public class RssApplication {
         feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "https://store.steampowered.com/feeds/news.xml"));
         // feeds.add(new Feed(Categories.PC_VIDEO_GAMES,
         // "http://www.polygon.com/rss/index.xml"));
-        feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "https://blog.humblebundle.com/feed/"));
+        // feeds.add(new Feed(Categories.PC_VIDEO_GAMES, "https://blog.humblebundle.com/feed/"));
         feeds.add(new Feed(Categories.AUTOMOTIVE, "https://www.motortrend.com/feed/"));
         feeds.add(new Feed(Categories.MEDICAL, "https://www.medicinenet.com/rss/dailyhealth.xml"));
         feeds.add(new Feed(Categories.MEDICAL, "https://medlineplus.gov/feeds/whatsnew.xml"));
