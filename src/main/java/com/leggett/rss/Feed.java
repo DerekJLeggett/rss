@@ -1,8 +1,10 @@
 package com.leggett.rss;
 
+import java.util.List;
+
 public class Feed {
 
-    Categories category;
+    List<Categories> categories;
     String url;
 
     public enum Categories {
@@ -13,7 +15,7 @@ public class Feed {
         MEDICAL("Medical"), LIBRARY("Library"), FASHION("Fashion"), LIFESTYLE("Lifestyle"),
         NATIONAL_PARKS("National Parks"), WEB_DEV("Web Devlopment"), COMEDY("Comedy"), DOCUMENTARY("Documentary"),
         RACE("Race"), CRIME("Crime"), HUMANITY("Humanity"), MILITARY("Military"), NAVY("Navy"), VETERANS("Veterans"),
-        RUSSIA("Russia");
+        RUSSIA("Russia"), GOVERNMENT("Government");
 
         private final String name;
 
@@ -26,17 +28,17 @@ public class Feed {
         }
     }
 
-    public Feed(Categories category, String url) {
-        this.category = category;
+    public Feed(List<Categories> categories, String url) {
+        this.categories = categories;
         this.url = url;
     }
 
-    public Categories getCategory() {
-        return category;
+    public List<Categories> getCategory() {
+        return categories;
     }
 
-    public void setCategory(Categories category) {
-        this.category = category;
+    public void setCategory(List<Categories> categories) {
+        this.categories = categories;
     }
 
     public String getUrl() {
