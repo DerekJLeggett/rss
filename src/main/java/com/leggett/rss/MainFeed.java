@@ -49,7 +49,7 @@ public class MainFeed {
                 for(String feedFileName: feedFiles){
                     entry = new SyndEntryImpl();
                     entry.setTitle("Aggregated " + StringUtils.capitalize(feedFileName.replace(",xml", "")) + " Feed");
-                    entry.setLink("https://www.thedorey.com/assets/rss/" + feedFileName);
+                    entry.setLink("https://www.thedorey.com/" + feedFileName);
                     entry.setPublishedDate(new Date());
                     description = new SyndContentImpl();
                     description.setType("text/plain");

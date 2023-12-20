@@ -13,7 +13,7 @@ public class Feed {
         COLLEGE_BASKETBALL("College Basketball"), BASEBALL("Baseball"), CELEBRITY("Celebrity"), PHOTOS("Photos"),
         MUSIC("Music"), MOVIES("Movies"), PC_VIDEO_GAMES("PC Video Games"), AUTOMOTIVE("Automotive"),
         MEDICAL("Medical"), LIBRARY("Library"), FASHION("Fashion"), LIFESTYLE("Lifestyle"),
-        NATIONAL_PARKS("National Parks"), WEB_DEV("Web Devlopment"), COMEDY("Comedy"), DOCUMENTARY("Documentary"),
+        NATIONAL_PARKS("National Parks"), WEB_DEV("Web Development"), COMEDY("Comedy"), DOCUMENTARY("Documentary"),
         RACE("Race"), CRIME("Crime"), HUMANITY("Humanity"), MILITARY("Military"), NAVY("Navy"), VETERANS("Veterans"),
         RUSSIA("Russia"), GOVERNMENT("Government");
 
