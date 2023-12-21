@@ -15,7 +15,7 @@ public class Feed {
         MEDICAL("Medical"), LIBRARY("Library"), FASHION("Fashion"), LIFESTYLE("Lifestyle"),
         NATIONAL_PARKS("National Parks"), WEB_DEV("Web Development"), COMEDY("Comedy"), DOCUMENTARY("Documentary"),
         RACE("Race"), CRIME("Crime"), HUMANITY("Humanity"), MILITARY("Military"), NAVY("Navy"), VETERANS("Veterans"),
-        RUSSIA("Russia"), GOVERNMENT("Government");
+        RUSSIA("Russia"), GOVERNMENT("Government"), FITNESS("Fitness"), METAL_FABRICATION("Metal Fabrication");
 
         private final String name;
 
