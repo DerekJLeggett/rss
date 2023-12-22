@@ -7,19 +7,22 @@ import java.util.List;
 import com.leggett.rss.Feed.Categories;
 
 public class Feeds {
-    
-    public List<List<Feed>> getFeeds(){
-        List<List<Feed>> feeds = new ArrayList<>();
+
+        public List<List<Feed>> getFeeds() {
+                List<List<Feed>> feeds = new ArrayList<>();
                 List<Feed> fitnessFeeds = new ArrayList<>();
                 fitnessFeeds.add(new Feed(Arrays.asList(Categories.FITNESS), "https://womensfitness.co.uk/feed"));
-                fitnessFeeds.add(new Feed(Arrays.asList(Categories.FITNESS), "https://media.rss.com/cmartyfitfacts/feed.xml"));
+                fitnessFeeds.add(new Feed(Arrays.asList(Categories.FITNESS),
+                                "https://media.rss.com/cmartyfitfacts/feed.xml"));
                 feeds.add(fitnessFeeds);
 
                 List<Feed> metalFabricationFeeds = new ArrayList<>();
-                metalFabricationFeeds.add(new Feed(Arrays.asList(Categories.METAL_FABRICATION), "https://www.youtube.com/feeds/videos.xml?channel_id=UCdOM6Qc53TcWuExrnDLVjXg"));
-                metalFabricationFeeds.add(new Feed(Arrays.asList(Categories.METAL_FABRICATION), "https://www.youtube.com/feeds/videos.xml?channel_id=UCSFaYYQzNMLo2U6rSNLpghg"));
+                metalFabricationFeeds.add(new Feed(Arrays.asList(Categories.METAL_FABRICATION),
+                                "https://www.youtube.com/feeds/videos.xml?channel_id=UCdOM6Qc53TcWuExrnDLVjXg"));
+                metalFabricationFeeds.add(new Feed(Arrays.asList(Categories.METAL_FABRICATION),
+                                "https://www.youtube.com/feeds/videos.xml?channel_id=UCSFaYYQzNMLo2U6rSNLpghg"));
                 feeds.add(metalFabricationFeeds);
-                
+
                 List<Feed> entertainmentFeeds = new ArrayList<>();
                 entertainmentFeeds.add(new Feed(Arrays.asList(Categories.ENTERTAINMENT),
                                 "https://rss.tvguide.com/breakingnews"));
@@ -101,6 +104,8 @@ public class Feeds {
                                 "https://www.theverge.com/rss/index.xml"));
                 technologyFeeds.add(new Feed(Arrays.asList(Categories.TECHNOLOGY),
                                 "https://www.howtogeek.com/feed"));
+                                technologyFeeds.add(new Feed(Arrays.asList(Categories.TECHNOLOGY),
+                                "https://www.raspberrypi.com/feed"));
                 feeds.add(technologyFeeds);
 
                 List<Feed> scienceFeeds = new ArrayList<>();
@@ -161,6 +166,8 @@ public class Feeds {
                 List<Feed> gamingFeeds = new ArrayList<>();
                 gamingFeeds.add(new Feed(Arrays.asList(Categories.PC_VIDEO_GAMES),
                                 "https://store.steampowered.com/feeds/news.xml"));
+                gamingFeeds.add(new Feed(Arrays.asList(Categories.PC_VIDEO_GAMES), "https://www.pcgamer.com/rss"));
+                gamingFeeds.add(new Feed(Arrays.asList(Categories.PC_VIDEO_GAMES), "https://www.tomshardware.com/rss.xml"));
                 feeds.add(gamingFeeds);
 
                 List<Feed> autoFeeds = new ArrayList<>();
@@ -188,7 +195,8 @@ public class Feeds {
 
                 List<Feed> lifestyleFeeds = new ArrayList<>();
                 lifestyleFeeds.add(new Feed(Arrays.asList(Categories.LIFESTYLE), "https://lifehacker.com/rss"));
-                lifestyleFeeds.add(new Feed(Arrays.asList(Categories.LIFESTYLE), "https://www.youtube.com/feeds/videos.xml?channel_id=UCN7aLGjHbAr6XBgGkHJsMnw"));
+                lifestyleFeeds.add(new Feed(Arrays.asList(Categories.LIFESTYLE),
+                                "https://www.youtube.com/feeds/videos.xml?channel_id=UCN7aLGjHbAr6XBgGkHJsMnw"));
                 feeds.add(lifestyleFeeds);
 
                 List<Feed> nationalParkFeeds = new ArrayList<>();
@@ -249,6 +257,6 @@ public class Feeds {
                 governmentFeeds.add(new Feed(Arrays.asList(Categories.GOVERNMENT),
                                 "https://www.fbi.gov/feeds/national-press-releases/rss.xml"));
                 feeds.add(governmentFeeds);
-        return feeds;
-    }
+                return feeds;
+        }
 }
