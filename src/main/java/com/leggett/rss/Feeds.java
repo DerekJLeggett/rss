@@ -104,7 +104,7 @@ public class Feeds {
                                 "https://www.theverge.com/rss/index.xml"));
                 technologyFeeds.add(new Feed(Arrays.asList(Categories.TECHNOLOGY),
                                 "https://www.howtogeek.com/feed"));
-                                technologyFeeds.add(new Feed(Arrays.asList(Categories.TECHNOLOGY),
+                technologyFeeds.add(new Feed(Arrays.asList(Categories.TECHNOLOGY),
                                 "https://www.raspberrypi.com/feed"));
                 feeds.add(technologyFeeds);
 
@@ -167,7 +167,8 @@ public class Feeds {
                 gamingFeeds.add(new Feed(Arrays.asList(Categories.PC_VIDEO_GAMES),
                                 "https://store.steampowered.com/feeds/news.xml"));
                 gamingFeeds.add(new Feed(Arrays.asList(Categories.PC_VIDEO_GAMES), "https://www.pcgamer.com/rss"));
-                gamingFeeds.add(new Feed(Arrays.asList(Categories.PC_VIDEO_GAMES), "https://www.tomshardware.com/rss.xml"));
+                gamingFeeds.add(new Feed(Arrays.asList(Categories.PC_VIDEO_GAMES),
+                                "https://www.tomshardware.com/rss.xml"));
                 feeds.add(gamingFeeds);
 
                 List<Feed> autoFeeds = new ArrayList<>();
