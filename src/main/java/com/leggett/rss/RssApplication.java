@@ -31,6 +31,8 @@ public class RssApplication {
                                 feed.setFeedType("rss_2.0");
                                 String category = feedListByCat.get(0).getCategory().get(0).getCategory();
                                 String title = "TheDorey.com - " + category + " Feed";
+                                feed.setStyleSheet("rss.css");
+                                feed.setStyleSheet("smb_rss2html.xsl");
                                 feed.setTitle(title);
                                 feed.setDescription(
                                                 "An eclectic collection of feeds from around the web.");
