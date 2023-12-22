@@ -106,6 +106,8 @@ public class Feeds {
                                 "https://www.howtogeek.com/feed"));
                 technologyFeeds.add(new Feed(Arrays.asList(Categories.TECHNOLOGY),
                                 "https://www.raspberrypi.com/feed"));
+                technologyFeeds.add(new Feed(Arrays.asList(Categories.TECHNOLOGY),
+                                "https://feeds.macrumors.com/MacRumors-All"));
                 feeds.add(technologyFeeds);
 
                 List<Feed> scienceFeeds = new ArrayList<>();
