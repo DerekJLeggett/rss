@@ -21,9 +21,11 @@ public class Utility {
             doc.head().appendChild(headLink);
         }
         Element container = new Element("div").addClass("container-fluid text-center");
-        container.appendChild(new Element("h1").text("Aggregated RSS feeds by category")
-                .addClass("text-center"));
         Element row = new Element("div").addClass("row");
+        row.appendChild(new Element("a").text("Open Arena game server hosted on this domain").attr("href", "http://www.openarena.ws/").attr("target", "_blank"));
+        row.appendChild(new Element("a").text("You can download the game client here").attr("href", "https://thedorey.com/openarena-0.8.8-repack.zip"));
+        row.appendChild(new Element("h1").text("Aggregated RSS feeds by category")
+                .addClass("text-center"));
         for (Element bodyLink : bodyLinks) {
             row.appendChild(bodyLink);
         }
