@@ -12,8 +12,6 @@ public class Feeds {
                 List<List<Feed>> feeds = new ArrayList<>();
                 List<Feed> fitnessFeeds = new ArrayList<>();
                 fitnessFeeds.add(new Feed(Arrays.asList(Categories.FITNESS), "https://womensfitness.co.uk/feed"));
-                fitnessFeeds.add(new Feed(Arrays.asList(Categories.FITNESS),
-                                "https://media.rss.com/cmartyfitfacts/feed.xml"));
                 feeds.add(fitnessFeeds);
 
                 List<Feed> metalFabricationFeeds = new ArrayList<>();

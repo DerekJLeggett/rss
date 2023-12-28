@@ -22,8 +22,10 @@ public class Utility {
         }
         Element container = new Element("div").addClass("container-fluid text-center");
         Element row = new Element("div").addClass("row");
-        row.appendChild(new Element("a").text("Open Arena game server hosted on this domain").attr("href", "http://www.openarena.ws/").attr("target", "_blank"));
-        row.appendChild(new Element("a").text("You can download the game client here").attr("href", "https://thedorey.com/openarena-0.8.8-repack.zip"));
+        row.appendChild(new Element("a").text("Open Arena game server hosted on this domain")
+                .attr("href", "http://www.openarena.ws/").attr("target", "_blank"));
+        row.appendChild(new Element("a").text("You can download the game client here").attr("href",
+                "https://thedorey.com/openarena-0.8.8-repack.zip"));
         row.appendChild(new Element("h1").text("Aggregated RSS feeds by category")
                 .addClass("text-center"));
         for (Element bodyLink : bodyLinks) {
@@ -35,9 +37,30 @@ public class Utility {
         try {
             FileUtils.writeStringToFile(htmlFile, doc.outerHtml(), StandardCharsets.UTF_8);
         } catch (IOException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            System.out.println("ERROR: " + e.getMessage());
         }
-        System.out.println(doc.toString());
+    }
+
+    public void writeCategoryHtml(String category, List<Element> categoryElements) {
+        Document doc = Jsoup.parse("<html lang=\"en\"></html>");
+        doc.head().append("<meta charset=\"utf-8\">"
+                + "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
+                + "<title>TheDorey</title>"
+                + "<link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN\" crossorigin=\"anonymous\">");
+        Element container = new Element("div").addClass("container-fluid text-center");
+        Element row = new Element("div").addClass("row");
+        row.appendChild(new Element("h1").text(category)
+                .addClass("text-center"));
+        for (Element categoryElement : categoryElements) {
+            row.appendChild(categoryElement);
+        }
+        container.appendChild(row);
+        doc.body().appendChild(container);
+        File htmlFile = new File("./target/" + category + ".html");
+        try {
+            FileUtils.writeStringToFile(htmlFile, doc.outerHtml(), StandardCharsets.UTF_8);
+        } catch (IOException e) {
+            System.out.println("ERROR: " + e.getMessage());
+        }
     }
 }

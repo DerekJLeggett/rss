@@ -8,13 +8,12 @@ import java.net.URL;
 import java.io.File;
 import java.util.List;
 import java.util.ArrayList;
-import com.rometools.rome.feed.synd.SyndCategory;
-import com.rometools.rome.feed.synd.SyndCategoryImpl;
-import com.rometools.rome.feed.synd.SyndContent;
+
 import com.rometools.rome.feed.synd.SyndEnclosure;
 import com.rometools.rome.feed.synd.SyndEntry;
 import com.rometools.rome.feed.synd.SyndFeed;
 import com.rometools.rome.feed.synd.SyndFeedImpl;
+import com.rometools.rome.feed.synd.SyndImage;
 import com.rometools.rome.io.SyndFeedOutput;
 import com.rometools.rome.io.SyndFeedInput;
 import com.rometools.rome.io.XmlReader;
@@ -26,71 +25,105 @@ public class RssApplication {
                 SpringApplication.run(RssApplication.class, args);
                 List<List<Feed>> feeds = new Feeds().getFeeds();
                 List<Element> headLinks = new ArrayList<>();
-                List<Element> bodyLinks = new ArrayList<>();
+                List<Element> indexLinks = new ArrayList<>();
+                Utility utility = new Utility();
                 try {
                         for (List<Feed> feedListByCat : feeds) {
+                                List<Element> categoryElements = new ArrayList<>();
                                 SyndFeed feed = new SyndFeedImpl();
                                 feed.setFeedType("rss_2.0");
                                 String category = feedListByCat.get(0).getCategory().get(0).getCategory();
                                 String title = "TheDorey.com - " + category + " Feed";
-                                feed.setStyleSheet("pretty-feed-v3.xsl");
                                 feed.setTitle(title);
                                 feed.setDescription(
-                                                "An eclectic collection of feeds from around the web.");
+                                                "An eclectic collection of feeds from around the web for category: "
+                                                                + category);
                                 feed.setAuthor("Derek Leggett");
                                 feed.setLink("https://www.thedorey.com/" + category.replace(" ", "_") + ".xml");
                                 for (Feed feedByCat : feedListByCat) {
                                         try {
-                                                List<SyndEntry> entries = new ArrayList();
+                                                List<SyndEntry> entries = new ArrayList<SyndEntry>();
                                                 feed.setEntries(entries);
-                                                SyndFeedInput input = new SyndFeedInput();
-                                                SyndFeed inFeed = input.build(new XmlReader(new URL(feedByCat.url)));
+                                                SyndFeed inFeed = new SyndFeedInput()
+                                                                .build(new XmlReader(new URL(feedByCat.url)));
+                                                // Channel title, link, description
+                                                categoryElements.add(new Element("a").attr("href", inFeed.getLink())
+                                                                .attr("target", "_blank")
+                                                                .text("Source: " + inFeed.getTitle()));
+                                                categoryElements.add(new Element("h3").text(inFeed.getDescription()));
+                                                SyndImage image = inFeed.getImage();
+                                                if (image != null) {
+                                                        categoryElements.add(new Element("img")
+                                                                        .addClass("img-thumbnail").attr("src",
+                                                                                        image.getUrl()));
+                                                }
+
                                                 System.out.println(feedByCat.url);
                                                 List<SyndEntry> entryList = inFeed.getEntries();
                                                 for (SyndEntry entry : entryList) {
-                                                           List<SyndContent> contents = entry.getContents();
-                                                           for(SyndContent content: contents){
-                                                                System.out.println(content.getValue());
-                                                           }
-                                                           SyndContent description = entry.getDescription();
-                                                           System.out.println(description.getValue());
-                                                           List<SyndEnclosure> enlosures = entry.getEnclosures();
-                                                           for(SyndEnclosure enclosure: enlosures){
-                                                                System.out.println(enclosure.getType());
-                                                                System.out.println(enclosure.getUrl());
-                                                           }
-                                                           
-                                                        List<SyndCategory> cats = entry.getCategories();
-                                                        for (int i = 0; i < feedByCat.categories.size(); i++) {
-                                                                SyndCategory syndCategory = new SyndCategoryImpl();
-                                                                syndCategory.setName(
-                                                                                feedByCat.categories.get(i)
-                                                                                                .getCategory());
-                                                                cats.add(i, syndCategory);
+                                                        categoryElements.add(
+                                                                        new Element("a").attr("style", "font-weight:bold").attr("href", entry.getLink())
+                                                                                        .attr("target", "_blank")
+                                                                                        .text(entry.getTitle()));
+                                                        if (entry.getDescription().getType().toString()
+                                                                        .contains("html")) {
+                                                                categoryElements.add(new Element("h3").html(
+                                                                                entry.getDescription().getValue()));
+                                                        } else {
+                                                                categoryElements.add(new Element("h3").text(
+                                                                                entry.getDescription().getValue()));
+                                                        }
+                                                        List<SyndEnclosure> enclosures = entry.getEnclosures();
+                                                        if (enclosures != null) {
+                                                                for (SyndEnclosure enclosure : enclosures) {
+                                                                        System.out.println(
+                                                                                        "Type: " + enclosure.getType());
+                                                                        System.out.println(
+                                                                                        "URL: " + enclosure.getUrl());
+                                                                        String enclosureType = enclosure.getType();
+                                                                        String enclosureUrl = enclosure.getUrl();
+                                                                        switch (enclosureType) {
+                                                                                case "audio/mpeg":
+                                                                                        categoryElements.add(
+                                                                                                        new Element(
+                                                                                                                        "audio")
+                                                                                                                        .attr("controls",
+                                                                                                                                        "")
+                                                                                                                        .attr("type", enclosureType)
+                                                                                                                        .attr("src", enclosureUrl));
+                                                                                        break;
+                                                                                case "image/jpeg":
+                                                                                        categoryElements.add(
+                                                                                                        new Element(
+                                                                                                                        "img")
+                                                                                                                        .addClass("img-fluid")
+                                                                                                                        .attr("src", enclosureUrl));
+                                                                                        break;
+                                                                        }
+                                                                }
+
                                                         }
                                                 }
                                                 entries.addAll(entryList);
+                                                utility.writeCategoryHtml(category, categoryElements);
                                         } catch (Exception e) {
                                                 System.out.println("ERROR: " + e.getMessage());
                                         }
                                 }
                                 SyndFeedOutput output = new SyndFeedOutput();
-                                String href = category.replace(" ", "_") + ".xml";
+                                String href = category.replace(" ", "_") + ".html";
                                 Element headLinkElement = new Element("link").attr("rel", "alternate")
                                                 .attr("type", "application/rss+xml").attr("title", title)
                                                 .attr("href", href);
                                 headLinks.add(headLinkElement);
-                                Element bodyLinkElement = new Element("div").addClass("col")
-                                                .appendChild(new Element("a").attr("href", href).text(category)
-                                                                .appendChild(new Element("img").attr("src",
-                                                                                "Feed-icon.svg")
-                                                                                .attr("alt", title)));
-                                bodyLinks.add(bodyLinkElement);
+                                Element indexLinkElement = new Element("div").addClass("col")
+                                                .appendChild(new Element("a").attr("style", "font-weight:bold").attr("href", href).text(category));
+                                indexLinks.add(indexLinkElement);
                                 output.output(feed, new File("./target/" + category.replace(" ", "_") + ".xml"));
                         }
                 } catch (Exception ex) {
                         System.out.println("ERROR: " + ex.getMessage());
                 }
-                new Utility().writeIndexHtml(headLinks, bodyLinks);
+                utility.writeIndexHtml(headLinks, indexLinks);
         }
 }
