@@ -260,6 +260,21 @@ public class Feeds {
                 governmentFeeds.add(new Feed(Arrays.asList(Categories.GOVERNMENT),
                                 "https://www.fbi.gov/feeds/national-press-releases/rss.xml"));
                 feeds.add(governmentFeeds);
+
+                List<Feed> recipeFeeds = new ArrayList<>();
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES), "https://www.sanjanafeasts.co.uk/feed/"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES), "https://woonheng.com/feed/"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),"https://www.theppk.com/feed/"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),"https://www.cookwithmanali.com/web-stories/feed/"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),"https://www.bonappetit.com/feed/rss"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),"https://www.epicurious.com/services/rss/recipes"));
+                feeds.add(recipeFeeds);
+
+                List<Feed> consoleGameFeeds = new ArrayList<>();
+                consoleGameFeeds.add(new Feed(Arrays.asList(Categories.CONSOLE_VIDEO_GAMES),"https://news.xbox.com/en-us/feed/"));
+                consoleGameFeeds.add(new Feed(Arrays.asList(Categories.CONSOLE_VIDEO_GAMES),"https://blog.playstation.com/feed/"));
+                consoleGameFeeds.add(new Feed(Arrays.asList(Categories.CONSOLE_VIDEO_GAMES),"https://search.nintendo-europe.com/en/feed/news"));
+                feeds.add(consoleGameFeeds);
                 return feeds;
         }
 }

@@ -11,11 +11,11 @@ public class Feed {
         ENTERTAINMENT("Entertainment"), NEWS("News"), EDUCATION("Education"), SCIENCE("Science"), NATURE("Nature"),
         SPACE("Space"), TECHNOLOGY("Technology"), PBS("PBS"), SPORTS("Sports"), BOXING("Boxing"),
         COLLEGE_BASKETBALL("College Basketball"), BASEBALL("Baseball"), CELEBRITY("Celebrity"), PHOTOS("Photos"),
-        MUSIC("Music"), MOVIES("Movies"), PC_VIDEO_GAMES("PC Video Games"), AUTOMOTIVE("Automotive"),
+        MUSIC("Music"), MOVIES("Movies"), PC_VIDEO_GAMES("PC Video Games"), CONSOLE_VIDEO_GAMES("Console Video Games"), AUTOMOTIVE("Automotive"),
         MEDICAL("Medical"), LIBRARY("Library"), FASHION("Fashion"), LIFESTYLE("Lifestyle"),
         NATIONAL_PARKS("National Parks"), WEB_DEV("Web Development"), COMEDY("Comedy"), DOCUMENTARY("Documentary"),
         RACE("Race"), CRIME("Crime"), HUMANITY("Humanity"), MILITARY("Military"), NAVY("Navy"), VETERANS("Veterans"),
-        RUSSIA("Russia"), GOVERNMENT("Government"), FITNESS("Fitness"), METAL_FABRICATION("Metal Fabrication");
+        RUSSIA("Russia"), GOVERNMENT("Government"), FITNESS("Fitness"), METAL_FABRICATION("Metal Fabrication"), RECIPES("Recipes");
 
         private final String name;
 

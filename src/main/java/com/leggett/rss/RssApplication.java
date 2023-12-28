@@ -10,6 +10,8 @@ import java.util.List;
 import java.util.ArrayList;
 import com.rometools.rome.feed.synd.SyndCategory;
 import com.rometools.rome.feed.synd.SyndCategoryImpl;
+import com.rometools.rome.feed.synd.SyndContent;
+import com.rometools.rome.feed.synd.SyndEnclosure;
 import com.rometools.rome.feed.synd.SyndEntry;
 import com.rometools.rome.feed.synd.SyndFeed;
 import com.rometools.rome.feed.synd.SyndFeedImpl;
@@ -46,6 +48,18 @@ public class RssApplication {
                                                 System.out.println(feedByCat.url);
                                                 List<SyndEntry> entryList = inFeed.getEntries();
                                                 for (SyndEntry entry : entryList) {
+                                                           List<SyndContent> contents = entry.getContents();
+                                                           for(SyndContent content: contents){
+                                                                System.out.println(content.getValue());
+                                                           }
+                                                           SyndContent description = entry.getDescription();
+                                                           System.out.println(description.getValue());
+                                                           List<SyndEnclosure> enlosures = entry.getEnclosures();
+                                                           for(SyndEnclosure enclosure: enlosures){
+                                                                System.out.println(enclosure.getType());
+                                                                System.out.println(enclosure.getUrl());
+                                                           }
+                                                           
                                                         List<SyndCategory> cats = entry.getCategories();
                                                         for (int i = 0; i < feedByCat.categories.size(); i++) {
                                                                 SyndCategory syndCategory = new SyndCategoryImpl();
