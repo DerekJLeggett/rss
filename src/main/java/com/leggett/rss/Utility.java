@@ -51,12 +51,14 @@ public class Utility {
         Element row = new Element("div").addClass("row");
         row.appendChild(new Element("h1").text(category)
                 .addClass("text-center"));
-        for (Element categoryElement : categoryElements) {
-            row.appendChild(categoryElement);
-        }
         container.appendChild(row);
+        for (Element categoryElement : categoryElements) {
+            Element categoryRow = new Element("div").addClass("row").addClass("text-center");
+            categoryRow.appendChild(categoryElement.addClass("text-center"));
+            container.appendChild(categoryRow);
+        }
         doc.body().appendChild(container);
-        File htmlFile = new File("./target/" + category + ".html");
+        File htmlFile = new File("./target/" + category.replace(" ", "_") + ".html");
         try {
             FileUtils.writeStringToFile(htmlFile, doc.outerHtml(), StandardCharsets.UTF_8);
         } catch (IOException e) {

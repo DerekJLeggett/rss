@@ -1,5 +1,6 @@
 package com.leggett.rss;
 
+import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,6 +10,7 @@ import java.io.File;
 import java.util.List;
 import java.util.ArrayList;
 
+import com.rometools.rome.feed.synd.SyndContent;
 import com.rometools.rome.feed.synd.SyndEnclosure;
 import com.rometools.rome.feed.synd.SyndEntry;
 import com.rometools.rome.feed.synd.SyndFeed;
@@ -50,28 +52,34 @@ public class RssApplication {
                                                 categoryElements.add(new Element("a").attr("href", inFeed.getLink())
                                                                 .attr("target", "_blank")
                                                                 .text("Source: " + inFeed.getTitle()));
-                                                categoryElements.add(new Element("h3").text(inFeed.getDescription()));
+                                                String description = inFeed.getDescription();
+                                                if (description != null) {
+                                                        categoryElements.add(new Element("h3")
+                                                                        .text(description));
+                                                }
                                                 SyndImage image = inFeed.getImage();
                                                 if (image != null) {
                                                         categoryElements.add(new Element("img")
-                                                                        .addClass("img-thumbnail").attr("src",
-                                                                                        image.getUrl()));
+                                                                        .addClass("img-fluid").attr("style", "width:25%").attr("src",
+                                                                                        image.getUrl()).attr("alt", inFeed.getTitle()).addClass("text-center").addClass("mx-auto"));
                                                 }
 
                                                 System.out.println(feedByCat.url);
                                                 List<SyndEntry> entryList = inFeed.getEntries();
                                                 for (SyndEntry entry : entryList) {
                                                         categoryElements.add(
-                                                                        new Element("a").attr("style", "font-weight:bold").attr("href", entry.getLink())
+                                                                        new Element("a").attr("style",
+                                                                                        "font-weight:bold")
+                                                                                        .attr("href", entry.getLink())
                                                                                         .attr("target", "_blank")
                                                                                         .text(entry.getTitle()));
-                                                        if (entry.getDescription().getType().toString()
-                                                                        .contains("html")) {
-                                                                categoryElements.add(new Element("h3").html(
-                                                                                entry.getDescription().getValue()));
-                                                        } else {
+                                                        SyndContent entryDescription = entry.getDescription();
+                                                        if (entryDescription != null) {
+                                                                Element descriptionElement = Jsoup
+                                                                                .parse(entry.getDescription()
+                                                                                                .getValue());
                                                                 categoryElements.add(new Element("h3").text(
-                                                                                entry.getDescription().getValue()));
+                                                                                descriptionElement.text()));
                                                         }
                                                         List<SyndEnclosure> enclosures = entry.getEnclosures();
                                                         if (enclosures != null) {
@@ -117,7 +125,8 @@ public class RssApplication {
                                                 .attr("href", href);
                                 headLinks.add(headLinkElement);
                                 Element indexLinkElement = new Element("div").addClass("col")
-                                                .appendChild(new Element("a").attr("style", "font-weight:bold").attr("href", href).text(category));
+                                                .appendChild(new Element("a").attr("style", "font-weight:bold")
+                                                                .attr("href", href).text(category));
                                 indexLinks.add(indexLinkElement);
                                 output.output(feed, new File("./target/" + category.replace(" ", "_") + ".xml"));
                         }

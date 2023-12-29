@@ -14,6 +14,11 @@ public class Feeds {
                 fitnessFeeds.add(new Feed(Arrays.asList(Categories.FITNESS), "https://womensfitness.co.uk/feed"));
                 feeds.add(fitnessFeeds);
 
+                List<Feed> outdoorFeeds = new ArrayList<>();
+                outdoorFeeds.add(new Feed(Arrays.asList(Categories.OUTDOORS), "https://www.fieldandstream.com/feed/"));
+                outdoorFeeds.add(new Feed(Arrays.asList(Categories.OUTDOORS),"https://www.bassmaster.com/feed/"));
+                feeds.add(outdoorFeeds);
+
                 List<Feed> metalFabricationFeeds = new ArrayList<>();
                 metalFabricationFeeds.add(new Feed(Arrays.asList(Categories.METAL_FABRICATION),
                                 "https://www.youtube.com/feeds/videos.xml?channel_id=UCdOM6Qc53TcWuExrnDLVjXg"));
@@ -67,6 +72,7 @@ public class Feeds {
                 newsFeeds.add(new Feed(Arrays.asList(Categories.NEWS, Categories.RUSSIA),
                                 "https://www.themoscowtimes.com/rss/news"));
                 newsFeeds.add(new Feed(Arrays.asList(Categories.NEWS), "https://www.goodnewsnetwork.org/feed/"));
+                newsFeeds.add(new Feed(Arrays.asList(Categories.NEWS), "https://www.newsweek.com/rss"));
                 feeds.add(newsFeeds);
 
                 List<Feed> educationFeeds = new ArrayList<>();
@@ -113,6 +119,8 @@ public class Feeds {
                                 "http://feeds.sciencedaily.com/sciencedaily"));
                 scienceFeeds.add(new Feed(Arrays.asList(Categories.SCIENCE),
                                 "https://www.smithsonianmag.com/rss/latest_articles/"));
+                scienceFeeds.add(new Feed(Arrays.asList(Categories.SCIENCE), "https://www.popularmechanics.com/rss"));
+                scienceFeeds.add(new Feed(Arrays.asList(Categories.SCIENCE), "https://www.popsci.com/feed/"));
                 feeds.add(scienceFeeds);
 
                 List<Feed> natureFeeds = new ArrayList<>();
@@ -153,6 +161,7 @@ public class Feeds {
                 List<Feed> photoFeeds = new ArrayList<>();
                 photoFeeds.add(new Feed(Arrays.asList(Categories.PHOTOS),
                                 "http://davidkphotography.com/index.php?x=rss"));
+                photoFeeds.add(new Feed(Arrays.asList(Categories.PHOTOS), "https://www.shutterstock.com/feed"));
                 feeds.add(photoFeeds);
 
                 List<Feed> musicFeeds = new ArrayList<>();
@@ -192,6 +201,7 @@ public class Feeds {
                 List<Feed> fashionFeeds = new ArrayList<>();
                 fashionFeeds.add(new Feed(Arrays.asList(Categories.FASHION), "https://www.elle.com/rss/all.xml/"));
                 fashionFeeds.add(new Feed(Arrays.asList(Categories.FASHION), "https://www.vanityfair.com/feed/rss"));
+                fashionFeeds.add(new Feed(Arrays.asList(Categories.FASHION), "https://www.vogue.com/feed/rss"));
                 feeds.add(fashionFeeds);
 
                 List<Feed> lifestyleFeeds = new ArrayList<>();
@@ -262,16 +272,22 @@ public class Feeds {
                 List<Feed> recipeFeeds = new ArrayList<>();
                 recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES), "https://www.sanjanafeasts.co.uk/feed/"));
                 recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES), "https://woonheng.com/feed/"));
-                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),"https://www.theppk.com/feed/"));
-                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),"https://www.cookwithmanali.com/web-stories/feed/"));
-                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),"https://www.bonappetit.com/feed/rss"));
-                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),"https://www.epicurious.com/services/rss/recipes"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES), "https://www.theppk.com/feed/"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),
+                                "https://www.cookwithmanali.com/web-stories/feed/"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES), "https://www.bonappetit.com/feed/rss"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES),
+                                "https://www.epicurious.com/services/rss/recipes"));
+                recipeFeeds.add(new Feed(Arrays.asList(Categories.RECIPES), "https://www.bbcgoodfood.com/feed"));
                 feeds.add(recipeFeeds);
 
                 List<Feed> consoleGameFeeds = new ArrayList<>();
-                consoleGameFeeds.add(new Feed(Arrays.asList(Categories.CONSOLE_VIDEO_GAMES),"https://news.xbox.com/en-us/feed/"));
-                consoleGameFeeds.add(new Feed(Arrays.asList(Categories.CONSOLE_VIDEO_GAMES),"https://blog.playstation.com/feed/"));
-                consoleGameFeeds.add(new Feed(Arrays.asList(Categories.CONSOLE_VIDEO_GAMES),"https://search.nintendo-europe.com/en/feed/news"));
+                consoleGameFeeds.add(new Feed(Arrays.asList(Categories.CONSOLE_VIDEO_GAMES),
+                                "https://news.xbox.com/en-us/feed/"));
+                consoleGameFeeds.add(new Feed(Arrays.asList(Categories.CONSOLE_VIDEO_GAMES),
+                                "https://blog.playstation.com/feed/"));
+                consoleGameFeeds.add(new Feed(Arrays.asList(Categories.CONSOLE_VIDEO_GAMES),
+                                "https://search.nintendo-europe.com/en/feed/news"));
                 feeds.add(consoleGameFeeds);
                 return feeds;
         }
