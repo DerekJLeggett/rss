@@ -3,6 +3,7 @@ package com.leggett.rss;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
+import java.util.Collections;
 import java.util.List;
 
 import org.apache.commons.io.FileUtils;
@@ -28,10 +29,14 @@ public class Utility {
                 "https://thedorey.com/openarena-0.8.8-repack.zip"));
         row.appendChild(new Element("h1").text("Aggregated RSS feeds by category")
                 .addClass("text-center"));
-        for (Element bodyLink : bodyLinks) {
-            row.appendChild(bodyLink);
-        }
         container.appendChild(row);
+        Collections.sort(bodyLinks, (o1, o2) -> (o1.text().compareTo(o2.text())));
+        for (Element bodyLink : bodyLinks) {
+            Element indexRow = new Element("div").addClass("row").addClass("text-center");
+            indexRow.appendChild(bodyLink.addClass("text-center"));
+            container.appendChild(indexRow);
+        }
+
         doc.body().appendChild(container);
         File htmlFile = new File("./target/index.html");
         try {

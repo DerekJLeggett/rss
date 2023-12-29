@@ -14,6 +14,13 @@ public class Feeds {
                 fitnessFeeds.add(new Feed(Arrays.asList(Categories.FITNESS), "https://womensfitness.co.uk/feed"));
                 feeds.add(fitnessFeeds);
 
+                List<Feed> wikipediaFeeds = new ArrayList<>();
+                wikipediaFeeds.add(new Feed(Arrays.asList(Categories.WIKIPEDIA), "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=potd&feedformat=atom"));
+                wikipediaFeeds.add(new Feed(Arrays.asList(Categories.WIKIPEDIA),"https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom"));
+                wikipediaFeeds.add(new Feed(Arrays.asList(Categories.WIKIPEDIA),"https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom"));
+                wikipediaFeeds.add(new Feed(Arrays.asList(Categories.WIKIPEDIA),"https://en.wikipedia.org/w/index.php?title=Special:RecentChanges&feed=atom"));
+                feeds.add(wikipediaFeeds);
+
                 List<Feed> outdoorFeeds = new ArrayList<>();
                 outdoorFeeds.add(new Feed(Arrays.asList(Categories.OUTDOORS), "https://www.fieldandstream.com/feed/"));
                 outdoorFeeds.add(new Feed(Arrays.asList(Categories.OUTDOORS),"https://www.bassmaster.com/feed/"));
