@@ -49,21 +49,24 @@ public class RssApplication {
                                                 SyndFeed inFeed = new SyndFeedInput()
                                                                 .build(new XmlReader(new URL(feedByCat.url)));
                                                 // Channel title, link, description
-                                                categoryElements.add(new Element("a").attr("href", inFeed.getLink())
-                                                                .attr("target", "_blank")
-                                                                .text("Source: " + inFeed.getTitle()));
-                                                String description = inFeed.getDescription();
-                                                if (description != null) {
-                                                        categoryElements.add(new Element("h3")
-                                                                        .text(description));
-                                                }
+                                                String feedTitle = inFeed.getTitle();
                                                 SyndImage image = inFeed.getImage();
+                                                String description = inFeed.getDescription();
+                                                categoryElements.add(new Element("a").addClass("channel")
+                                                                .attr("href", inFeed.getLink())
+                                                                .attr("target", "_blank")
+                                                                .text(feedTitle));
                                                 if (image != null) {
                                                         categoryElements.add(new Element("img")
-                                                                        .addClass("img-fluid").attr("style", "width:25%").attr("src",
-                                                                                        image.getUrl()).attr("alt", inFeed.getTitle()).addClass("text-center").addClass("mx-auto"));
+                                                                        .addClass("img-fluid")
+                                                                        .attr("style", "width:25%").attr("src",
+                                                                                        image.getUrl())
+                                                                        .attr("alt", inFeed.getTitle())
+                                                                        .addClass("text-center").addClass("mx-auto"));
                                                 }
-
+                                                if (description != null) {
+                                                        categoryElements.add(new Element("h3").text(description));
+                                                }
                                                 System.out.println(feedByCat.url);
                                                 List<SyndEntry> entryList = inFeed.getEntries();
                                                 for (SyndEntry entry : entryList) {
